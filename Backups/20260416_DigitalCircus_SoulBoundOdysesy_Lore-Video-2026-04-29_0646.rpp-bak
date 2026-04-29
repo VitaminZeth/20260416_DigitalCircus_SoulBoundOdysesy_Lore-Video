@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.43/win64" 1777470572
+<REAPER_PROJECT 0.1 "7.43/win64" 1777466809
   <NOTES 0 2
   >
   RIPPLE 0 1
@@ -18,8 +18,8 @@
   TIMEMODE 5 1 -1 24 0 -1 -1
   VIDEO_CONFIG 0 0 164352
   PANMODE 5
-  CURSOR 212.1707477047967
-  ZOOM 2.23462648703564 0 0
+  CURSOR 198.03393768056506
+  ZOOM 1.58759640137439 0 0
   VZOOMEX 33.2585144 0
   USE_REC_CFG 0
   RECMODE 1
@@ -69,8 +69,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4 0
   PLAYRATE 1 1 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 198.03393768056506 375.57356246993169
+  SELECTION2 198.03393768056506 375.57356246993169
   MASTERAUTOMODE 1
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16777420
@@ -96,10 +96,10 @@
       L1BsdWdpblN1YkNvbXA+CiAgIDxQbHVnaW5WZXJzaW9uPjE2LjcuMzMuMTg5PC9QbHVnaW5WZXJzaW9uPgogICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0
       dXA+CiAgIDxMb2FkTWVudUNhdGVnb3J5PkZhY3Rvcnk8L0xvYWRNZW51Q2F0ZWdvcnk+CiAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICA8L1ByZXNldEhlYWRl
       cj4KICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSIgU2V0dXBOYW1lPSJXTE0gRnVsbCBSZXNldCI+CiAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+CjAg
-      KiAqICogKiAqICogKiAtMiAtMy4wNjY0NDY0Njg5ODE0MTEwNDQzCjIgMCAtNTQgLTU0IC01NCAtMTggLTE4IDQ0ICogKgowIDAgMCAtMjAuMTk3MzAwNTQ4ODkwNjYy
-      OTUyIDAgLTMuMDY2NDQ2NDY4OTgxNDExMDQ0MyAqICogMCAwCjEgMCAwIDAgKiAqICogKiAtMjMgLTIwCi0xNSA2OTggMjAwIDQwIDYwMyA4MDkgMTAwMCAxIC0xMiAw
+      KiAqICogKiAqICogKiAtMiAtOC42NDc4NDgxOTQyNzY2NzI3Mjg2CjIgMCAtNTQgLTU0IC01NCAtMTggLTE4IDQ0ICogKgowIDAgMCAtMjAuMTk3MzAwNTQ4ODkwNjYy
+      OTUyIDAgLTguNjQ3ODQ4MTk0Mjc2NjcyNzI4NiAqICogMCAwCjEgMCAwIDAgKiAqICogKiAtMjMgLTIwCi0xNSA2OTggMjAwIDQwIDYwMyA4MDkgMTAwMCAxIC0xMiAw
       CjAgMC4wMTAwMDAwMDAwMDAwMDAwMDAyMDggMTUwIDAgMTUwMDAgMCAtNDIgNTAwIDIwMDQgNTAwMQotNDIgNTAwMSAqICogKiAwIDEgMC41IDEyMDUgMTIwNQoqIDEw
-      MDAgNTA4IDIwMCAtNzQgKiAwLjEwNDM3MzYxMTUwOTc5OTk1NzI4ICogKiAqCiogKiAqICogKiAqICogKiAqICoKKiAwIDAgNSAwIDAgKiAqIDIgNQoxIDAgMCAwIDAg
+      MDAgNTA4IDIwMCAtNzQgKiAwLjEwNDM3MzYxMTUwOTc5OTk1NzI4ICogKiAqCiogKiAqICogKiAqICogKiAqICoKKiAwIDAgMyAwIDAgKiAqIDIgNQoxIDAgMCAwIDAg
       LTE2IC0zMiAtMjQgOTAgNzQKODMgMCAwIDggLTU5LjkzOTk5OTk5OTk5OTk5NzcyNiAyIDAgKiAqICoKKiAqIDAgKiAqICogMCAwIDAgMAoyICogMSAxIDAgNCAqIDAg
       KiAwCjwvUGFyYW1ldGVycz4KICAgPFBsdWdpblNwZWNpZmljWE1MRGF0YSAvPgogIDwvUHJlc2V0RGF0YT4KICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiIgU2V0
       dXBOYW1lPSJXTE0gRnVsbCBSZXNldCI+CiAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+CjAgKiAqICogKiAqICogKiAtMiAtMTIuMTI5NjUyNjkwODI2NjA0
@@ -112,7 +112,7 @@
       AFdMTSBGdWxsIFJlc2V0ABAAAAA=
     >
     PRESETNAME "WLM Full Reset"
-    FLOAT -497 24 505 656
+    FLOAT -643 40 505 656
     FXID {D6330DFD-0B5F-4559-8504-7DAE9AEBF476}
     WAK 0 0
     BYPASS 0 0 0
@@ -491,7 +491,7 @@
       CHANMODE 0
       GUID {D360FD81-C929-4B58-98F8-5B245F96724E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 001.wav"
@@ -501,7 +501,7 @@
       CHANMODE 0
       GUID {3558E21B-F78E-4DF6-BCB9-38FB8478E537}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 001.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 001.wav"
       >
     >
     <ITEM
@@ -524,7 +524,7 @@
       CHANMODE 0
       GUID {469DC2D2-9EE1-405E-B2B5-F69D62CC3525}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -547,7 +547,7 @@
       CHANMODE 0
       GUID {0D925184-E742-4078-AC02-C6DC35227981}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 002.wav"
@@ -557,7 +557,7 @@
       CHANMODE 0
       GUID {C8C29FE5-ADC3-4DDE-8D3C-637C4948D0E0}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 002.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 002.wav"
       >
     >
     <ITEM
@@ -580,7 +580,7 @@
       CHANMODE 0
       GUID {18F08BD1-1082-48A6-B40D-CEA31D4B09EF}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 002.wav"
@@ -590,7 +590,7 @@
       CHANMODE 0
       GUID {CF3A07BD-88C9-4B96-AE78-F7A69AABDDA6}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 002.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 002.wav"
       >
     >
     <ITEM
@@ -613,7 +613,7 @@
       CHANMODE 0
       GUID {82D7927B-7B6C-46A0-85B0-6D8D8A88CA61}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -636,7 +636,7 @@
       CHANMODE 0
       GUID {D6391156-49F2-4A0E-94BA-F86B2306FC54}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 003.wav"
@@ -646,7 +646,7 @@
       CHANMODE 0
       GUID {403FC45A-C657-4514-9674-4460D44AE5F0}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 003.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 003.wav"
       >
     >
     <ITEM
@@ -669,7 +669,7 @@
       CHANMODE 0
       GUID {5EADFC59-F2BD-4B27-8F6B-AC0173A1420F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 003.wav"
@@ -679,7 +679,7 @@
       CHANMODE 0
       GUID {4BC7ACA2-2115-4EC6-9647-4BF8ABA3A046}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 003.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 003.wav"
       >
     >
     <ITEM
@@ -702,7 +702,7 @@
       CHANMODE 0
       GUID {875161C6-E795-4FE3-B3A3-D70216AB1C6A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 003.wav"
@@ -712,7 +712,7 @@
       CHANMODE 0
       GUID {F64AC3D5-406B-482E-9D73-A45FD8292260}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 003.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 003.wav"
       >
     >
     <ITEM
@@ -735,7 +735,7 @@
       CHANMODE 0
       GUID {A23D1C49-F04C-44AF-BA9A-C52C6B0F2A12}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -758,7 +758,7 @@
       CHANMODE 0
       GUID {69A63AA7-4E87-411B-9159-65B94C5BFBD0}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 004.wav"
@@ -768,7 +768,7 @@
       CHANMODE 0
       GUID {D847925F-720D-44DE-BFFE-B4E6519170D6}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 004.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 004.wav"
       >
     >
     <ITEM
@@ -791,7 +791,7 @@
       CHANMODE 0
       GUID {30D3D686-DF1B-4FEB-8F00-4F2C2834DB87}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -814,7 +814,7 @@
       CHANMODE 0
       GUID {9461870C-D3E0-4454-AA4E-E0D45F453CC7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 006.wav"
@@ -824,7 +824,7 @@
       CHANMODE 0
       GUID {052F3991-518F-4A2F-8F08-59248A017229}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 006.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 006.wav"
       >
     >
     <ITEM
@@ -847,7 +847,7 @@
       CHANMODE 0
       GUID {7EC0F2A1-F9C3-4684-8EEA-D5ED967271B2}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -870,7 +870,7 @@
       CHANMODE 0
       GUID {8D389DFC-AA51-436E-989E-44A932EE8091}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 007.wav"
@@ -880,7 +880,7 @@
       CHANMODE 0
       GUID {9BE90F18-F5F6-4057-AD9F-C70EC538D1C3}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 007.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 007.wav"
       >
     >
     <ITEM
@@ -903,7 +903,7 @@
       CHANMODE 0
       GUID {AAEC8F81-AD7E-4587-A1E1-AD5A54A5A810}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -926,7 +926,7 @@
       CHANMODE 0
       GUID {AC5C8D15-B86D-4AED-8408-5E7C81FA3F46}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 008.wav"
@@ -936,7 +936,7 @@
       CHANMODE 0
       GUID {7AAA89E8-3A91-4CF5-AD0F-130DC0A34A2F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 008.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 008.wav"
       >
     >
     <ITEM
@@ -959,7 +959,7 @@
       CHANMODE 0
       GUID {7464FC72-9CB6-41EB-B191-0639B1A1F316}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -982,7 +982,7 @@
       CHANMODE 0
       GUID {80D34F4C-3B0D-4F58-B6A3-1E907F970576}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 009.wav"
@@ -992,7 +992,7 @@
       CHANMODE 0
       GUID {C2DF4705-A4CC-4D94-9C46-8E78C1429EC7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 009.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 009.wav"
       >
     >
     <ITEM
@@ -1015,7 +1015,7 @@
       CHANMODE 0
       GUID {879D112C-3B7F-4761-9C20-5DEEC4AE0567}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 009.wav"
@@ -1025,7 +1025,7 @@
       CHANMODE 0
       GUID {5D2FFD9C-3CD6-4C9F-A5C6-7E0A348D64DE}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 009.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 009.wav"
       >
     >
     <ITEM
@@ -1048,7 +1048,7 @@
       CHANMODE 0
       GUID {C55290BB-409D-4CB1-892B-C01E72F15EA7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 009.wav"
@@ -1058,7 +1058,7 @@
       CHANMODE 0
       GUID {EEF87B79-6B18-4C83-8788-D6009D1DE680}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 009.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 009.wav"
       >
     >
     <ITEM
@@ -1081,7 +1081,7 @@
       CHANMODE 0
       GUID {56D0E594-70BE-413E-976B-E6417AC5F270}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1104,7 +1104,7 @@
       CHANMODE 0
       GUID {99B60A22-23CD-4A56-A416-A9757DE27A2E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 010.wav"
@@ -1114,7 +1114,7 @@
       CHANMODE 0
       GUID {22D157FD-05BD-431E-85CF-D1978EA5D181}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 010.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 010.wav"
       >
     >
     <ITEM
@@ -1137,7 +1137,7 @@
       CHANMODE 0
       GUID {0509ADD1-2D31-4A4C-B3E4-8A39F876BAA5}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 011.wav"
@@ -1147,7 +1147,7 @@
       CHANMODE 0
       GUID {EE0A7B81-AEB9-4747-88B3-607A8A90B8BB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 011.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 011.wav"
       >
     >
     <ITEM
@@ -1170,7 +1170,7 @@
       CHANMODE 0
       GUID {8A2A898C-4C24-4E72-AC12-8906A5F3671C}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1193,7 +1193,7 @@
       CHANMODE 0
       GUID {A577BB6B-80DB-4140-A0CC-A85450BEE38B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 012.wav"
@@ -1203,7 +1203,7 @@
       CHANMODE 0
       GUID {786254F5-B60D-4350-BCC2-29E389EC8CA4}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 012.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 012.wav"
       >
     >
     <ITEM
@@ -1226,7 +1226,7 @@
       CHANMODE 0
       GUID {EBE5FC7D-FCE9-41B6-B2D5-B6DBBD774D6B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 013.wav"
@@ -1236,7 +1236,7 @@
       CHANMODE 0
       GUID {4D96F710-0B89-438C-9C9B-741576201093}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 013.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 013.wav"
       >
     >
     <ITEM
@@ -1259,7 +1259,7 @@
       CHANMODE 0
       GUID {2DF32EF9-1C14-4850-A31F-1D469991A0D1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1282,7 +1282,7 @@
       CHANMODE 0
       GUID {BA080556-1330-4598-925C-FB401D5C9F94}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 014.wav"
@@ -1292,7 +1292,7 @@
       CHANMODE 0
       GUID {A5A9B64A-82A8-4CFE-B072-9D90147FCBAB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 014.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 014.wav"
       >
     >
     <ITEM
@@ -1315,7 +1315,7 @@
       CHANMODE 0
       GUID {483BA08C-14E1-47DC-9426-0668969A1730}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 015.wav"
@@ -1325,7 +1325,7 @@
       CHANMODE 0
       GUID {E70D94C8-3663-4A12-A540-030778D2298B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 015.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 015.wav"
       >
     >
     <ITEM
@@ -1348,7 +1348,7 @@
       CHANMODE 0
       GUID {D3C8D228-C6CB-4742-A3D0-27CFA4B18AB7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 016.wav"
@@ -1358,7 +1358,7 @@
       CHANMODE 0
       GUID {DDF65336-5492-47EF-9020-D833B977C547}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 016.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 016.wav"
       >
     >
     <ITEM
@@ -1381,7 +1381,7 @@
       CHANMODE 0
       GUID {FA772CF5-6113-4631-B833-3E0C047771CA}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 016.wav"
@@ -1391,7 +1391,7 @@
       CHANMODE 0
       GUID {6309F029-0B20-4388-8B01-35F331C5E5F8}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 016.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 016.wav"
       >
     >
     <ITEM
@@ -1414,7 +1414,7 @@
       CHANMODE 0
       GUID {14D60A23-C4A7-482E-8C4F-9A80BA4A37CA}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 017.wav"
@@ -1424,7 +1424,7 @@
       CHANMODE 0
       GUID {47C61363-C337-49A3-B603-F3F85E39889B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 017.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 017.wav"
       >
     >
     <ITEM
@@ -1447,7 +1447,7 @@
       CHANMODE 0
       GUID {A3A8A313-54FD-4457-BA9F-24E3088F8865}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 018.wav"
@@ -1457,7 +1457,7 @@
       CHANMODE 0
       GUID {4CC41DF7-6EDA-47A3-9480-C43CA48710AF}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 018.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 018.wav"
       >
     >
     <ITEM
@@ -1480,7 +1480,7 @@
       CHANMODE 0
       GUID {3717B1AE-02B1-43F6-BF9A-A845231D2984}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 020.wav"
@@ -1490,7 +1490,7 @@
       CHANMODE 0
       GUID {F2BEFBD9-3BB1-4553-BAEE-6DD89D8680F1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 020.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 020.wav"
       >
     >
     <ITEM
@@ -1513,7 +1513,7 @@
       CHANMODE 0
       GUID {46D45945-311B-4A9A-B804-675A758C647F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 021.wav"
@@ -1523,7 +1523,7 @@
       CHANMODE 0
       GUID {DC0F3C41-19A1-4B21-A473-32D3782A571B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 021.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 021.wav"
       >
     >
     <ITEM
@@ -1546,7 +1546,7 @@
       CHANMODE 0
       GUID {ED8E4A31-2DF8-46A3-8C5E-5C47C1DFEA18}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1569,7 +1569,7 @@
       CHANMODE 0
       GUID {6B453559-5594-4507-ADC5-C5F9C471A5CC}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 022.wav"
@@ -1579,7 +1579,7 @@
       CHANMODE 0
       GUID {5C02B80A-2AE6-46FA-AE0B-38ED47A76281}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 022.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 022.wav"
       >
     >
     <ITEM
@@ -1602,7 +1602,7 @@
       CHANMODE 0
       GUID {1F5E4215-F0A2-4333-A983-1BCD2A2C0FAA}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1625,7 +1625,7 @@
       CHANMODE 0
       GUID {A15D7BEA-ABBA-433D-A9AE-34E7A9B8F92F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 023.wav"
@@ -1635,7 +1635,7 @@
       CHANMODE 0
       GUID {7E266E54-4352-4F0C-8917-4AF8131405B1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 023.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 023.wav"
       >
     >
     <ITEM
@@ -1658,7 +1658,7 @@
       CHANMODE 0
       GUID {130CC482-A0EB-42BC-8056-5EAAC30C0F46}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1681,7 +1681,7 @@
       CHANMODE 0
       GUID {C624F83E-18CC-4B29-A920-CB8667803EAF}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 024.wav"
@@ -1691,7 +1691,7 @@
       CHANMODE 0
       GUID {FAEEEAE4-4379-4699-923A-3021E22481F1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 024.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 024.wav"
       >
     >
     <ITEM
@@ -1713,7 +1713,7 @@
       CHANMODE 0
       GUID {4BA4A67B-3CFD-4B3A-BCAA-1B5AE8C26D19}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1736,7 +1736,7 @@
       CHANMODE 0
       GUID {CFD107E6-FC43-4455-BCA3-1D02C4659685}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 025.wav"
@@ -1746,7 +1746,7 @@
       CHANMODE 0
       GUID {A220A66B-0071-48AC-B982-F67E083C2C70}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 025.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 025.wav"
       >
     >
     <ITEM
@@ -1769,7 +1769,7 @@
       CHANMODE 0
       GUID {7F2A91DE-774E-4131-85DE-FFD190D34C37}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -1792,7 +1792,7 @@
       CHANMODE 0
       GUID {3C8D07F2-D7C8-448C-A38C-6E261CF8BF39}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 026.wav"
@@ -1802,7 +1802,7 @@
       CHANMODE 0
       GUID {C054ADCC-9F55-4262-88AF-7FAE24B34E58}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 026.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 026.wav"
       >
     >
     <ITEM
@@ -1825,7 +1825,7 @@
       CHANMODE 0
       GUID {99F0803E-5129-419A-B47C-BDAC3F4E9325}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 027.wav"
@@ -1835,7 +1835,7 @@
       CHANMODE 0
       GUID {50A3E251-2C71-495B-B4D4-3BEBEFC53BD9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 027.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 027.wav"
       >
     >
     <ITEM
@@ -1858,7 +1858,7 @@
       CHANMODE 0
       GUID {3CBD739B-AE53-443A-ABF4-F637262C1AFE}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 028.wav"
@@ -1868,7 +1868,7 @@
       CHANMODE 0
       GUID {F8676D77-840D-48F1-8534-1821C923961A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 028.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 028.wav"
       >
     >
     <ITEM
@@ -1891,7 +1891,7 @@
       CHANMODE 0
       GUID {39434066-AB81-41F9-A309-1E6D9775C848}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 028.wav"
@@ -1901,7 +1901,7 @@
       CHANMODE 0
       GUID {1C16324B-9634-4A52-8186-1DB72B8349D9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 028.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 028.wav"
       >
     >
     <ITEM
@@ -1924,7 +1924,7 @@
       CHANMODE 0
       GUID {C88F1757-B550-4709-829A-A597D70AD212}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 028.wav"
@@ -1934,7 +1934,7 @@
       CHANMODE 0
       GUID {F6D48AA8-199A-4AAC-B688-BD12069EBE0F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 028.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 028.wav"
       >
     >
     <ITEM
@@ -1957,7 +1957,7 @@
       CHANMODE 0
       GUID {A9E46612-682D-4939-B38B-AAA26D63B339}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 029.wav"
@@ -1967,7 +1967,7 @@
       CHANMODE 0
       GUID {FBFBE856-DA70-4563-BB35-4466ED7314B2}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 029.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 029.wav"
       >
     >
     <ITEM
@@ -1990,7 +1990,7 @@
       CHANMODE 0
       GUID {CA66BB0C-32B4-4E81-BF9A-DC2D2225749E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2013,7 +2013,7 @@
       CHANMODE 0
       GUID {B7677CBE-DC31-4818-A9C3-0C5771FF652F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2024,7 +2024,7 @@
       ALLTAKES 0
       FADEIN 3 0 0 0 0 -1 -1
       FADEOUT 3 0.06219658846751 0 0 0 1 1
-      MUTE 1 0
+      MUTE 0 0
       LOCK 1
       SEL 0
       IGUID {6356E1A6-855E-454E-B1C0-C50877799E20}
@@ -2036,7 +2036,7 @@
       CHANMODE 0
       GUID {CDB70168-4A60-4BFC-A02E-847D5FA1CA66}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2048,8 +2048,7 @@
       FADEIN 3 0.18658976540254 0 0 0 -1 -1
       FADEOUT 0 0.23786284996444 0 0 0 0 0
       MUTE 0 0
-      LOCK 1
-      SEL 0
+      SEL 1
       IGUID {A8445B59-FA8F-484B-B452-25A035FD9E5E}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2059,17 +2058,17 @@
       CHANMODE 0
       GUID {5CEB7B55-6747-40B3-A334-8FC13027C19D}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 030.wav"
-      TAKEVOLPAN 0 3.403297 -1
+      TAKEVOLPAN 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {B6F2B342-F677-47B9-9970-2AF6E104AC55}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 030.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 030.wav"
       >
     >
     <ITEM
@@ -2081,8 +2080,7 @@
       FADEIN 0 0.2383827238788 0 0 0 0 0
       FADEOUT 0 0.16591241458849 0 0 0 0 0
       MUTE 0 0
-      LOCK 1
-      SEL 0
+      SEL 1
       IGUID {378B315E-A4ED-4097-ABBC-77A43992902E}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2092,7 +2090,7 @@
       CHANMODE 0
       GUID {FF37B275-72C2-4107-845B-B4004A560CB0}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 031.wav"
@@ -2102,7 +2100,7 @@
       CHANMODE 0
       GUID {0DEB4F0B-7D9B-4D52-B747-92A43CF1E32F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 031.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 031.wav"
       >
     >
     <ITEM
@@ -2114,8 +2112,7 @@
       FADEIN 0 0.175803764845 0 0 0 0 0
       FADEOUT 0 0.41550369903999 0 0 0 0 0
       MUTE 0 0
-      LOCK 1
-      SEL 0
+      SEL 1
       IGUID {F328E99A-B034-42E6-B79D-FFE503EC74F8}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2125,7 +2122,7 @@
       CHANMODE 0
       GUID {A11D6491-E9A2-4FD1-8A60-53C47D71B94B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 032.wav"
@@ -2135,7 +2132,7 @@
       CHANMODE 0
       GUID {8E4E1F1E-A465-4097-86C1-B890018AE6D2}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 032.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 032.wav"
       >
     >
     <ITEM
@@ -2157,7 +2154,7 @@
       CHANMODE 0
       GUID {30857EC0-D0E4-4AA9-9BC8-5139AC1F625A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 033.wav"
@@ -2167,7 +2164,7 @@
       CHANMODE 0
       GUID {ACFC7809-C0EF-41B0-B943-3DD3C0B415DB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 033.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 033.wav"
       >
     >
     <ITEM
@@ -2179,7 +2176,7 @@
       FADEIN 0 0.306136694196 0 0 0 0 0
       FADEOUT 0 0.12624792229764 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {DFD3C022-C673-4DD1-86BA-A661AFF62106}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2189,7 +2186,7 @@
       CHANMODE 0
       GUID {AC3EC0AA-8B07-4682-A477-F778206EB62F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 034.wav"
@@ -2199,7 +2196,7 @@
       CHANMODE 0
       GUID {E2CD139E-CFE2-4F8D-A449-E17512A267FB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 034.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 034.wav"
       >
     >
     <ITEM
@@ -2211,7 +2208,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.01271941441445 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6131976E-D69E-44C1-A88D-AC85E0356AC9}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2221,7 +2218,7 @@
       CHANMODE 0
       GUID {78AECEF3-3889-46C1-B14C-6B6ADCA67056}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2233,7 +2230,7 @@
       FADEIN 3 0.06633802252009 0 0 0 -1 -1
       FADEOUT 0 0.32895233236806 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {10ED2D6F-64FA-4E49-BA33-1D808115C27D}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2243,7 +2240,7 @@
       CHANMODE 0
       GUID {BCEEE2C3-E02C-45B0-8CA8-903CF8B9B08B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 035.wav"
@@ -2253,7 +2250,7 @@
       CHANMODE 0
       GUID {B0B9FA0B-6AD0-482F-8955-ACBDCD17BA41}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 035.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 035.wav"
       >
     >
     <ITEM
@@ -2265,7 +2262,7 @@
       FADEIN 0 0.41391973970627 0 0 0 0 0
       FADEOUT 0 0.11304165094097 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6ABEAB48-3C2B-43E2-911E-102CF05FCFDC}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2275,7 +2272,7 @@
       CHANMODE 0
       GUID {152633AD-03EB-42D4-9F7F-9A60414489DD}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 036.wav"
@@ -2285,7 +2282,7 @@
       CHANMODE 0
       GUID {4C9D2A31-981D-4C1F-84B7-FD077622B8D0}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 036.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 036.wav"
       >
     >
     <ITEM
@@ -2297,7 +2294,7 @@
       FADEIN 0 0.21816018450994 0 0 0 0 0
       FADEOUT 0 0.85485407674036 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {BA421D7C-9AA2-4148-982C-55EC87724260}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2307,7 +2304,7 @@
       CHANMODE 0
       GUID {0D6776B6-7397-4834-B873-BE07AD74385A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 037.wav"
@@ -2317,7 +2314,7 @@
       CHANMODE 0
       GUID {1FD67F1D-4C00-45A5-BE2D-85A0E135AE87}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 037.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 037.wav"
       >
     >
     <ITEM
@@ -2329,7 +2326,7 @@
       FADEIN 0 1.14927393336987 0 0 0 0 0
       FADEOUT 0 0.21804154977411 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {B8B32C27-7A9F-44EB-BF88-2ED2B53AF78C}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2339,7 +2336,7 @@
       CHANMODE 0
       GUID {6E38929D-7239-4F65-B830-0C4B3B37B4EB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 038.wav"
@@ -2349,7 +2346,7 @@
       CHANMODE 0
       GUID {6BF8E848-8202-4CAA-B945-A422137A0382}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 038.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 038.wav"
       >
     >
     <ITEM
@@ -2361,7 +2358,7 @@
       FADEIN 0 0.41281908918 0 0 0 0 0
       FADEOUT 0 0.30939149265637 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {BE598298-5AD3-4506-9579-152C47C1FC71}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2371,7 +2368,7 @@
       CHANMODE 0
       GUID {2F76457B-086A-403E-89F0-4F5CFC93A6BE}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 039.wav"
@@ -2381,7 +2378,7 @@
       CHANMODE 0
       GUID {F7A4AA9B-6D34-41EE-B953-96D9E2B261A4}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 039.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 039.wav"
       >
     >
     <ITEM
@@ -2393,7 +2390,7 @@
       FADEIN 0 0.379648694845 0 0 0 0 0
       FADEOUT 0 0.15187471500417 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {813EA6E6-4277-48C6-9A3D-0079DFA7DB22}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2403,7 +2400,7 @@
       CHANMODE 0
       GUID {FD361C59-7037-4C65-B9CF-AF0723C7606F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 040.wav"
@@ -2413,7 +2410,7 @@
       CHANMODE 0
       GUID {46152E08-E5D6-4704-92C4-B237454F9B5E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 040.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 040.wav"
       >
     >
     <ITEM
@@ -2425,7 +2422,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.02918872990881 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {E8D93BF3-7A01-4ECB-A971-3CA2D0C7B94F}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2435,7 +2432,7 @@
       CHANMODE 0
       GUID {5E352C2E-F1B7-4C24-AAED-8537F98E854E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2447,7 +2444,7 @@
       FADEIN 3 0.13267604504017 0 0 0 -1 -1
       FADEOUT 0 0.24575686814604 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {68AA9421-01EA-4487-B33B-AD5C6DCF2AA8}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2457,7 +2454,7 @@
       CHANMODE 0
       GUID {D768FF0D-03D3-4FE4-B9BD-CE8471A7315F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 041.wav"
@@ -2467,7 +2464,7 @@
       CHANMODE 0
       GUID {6755554F-15EA-4BE3-8CA8-0C4EA6EDCF9A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 041.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 041.wav"
       >
     >
     <ITEM
@@ -2479,7 +2476,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.03980281351204 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {97FD715A-B35D-4C27-9CA1-C9249E2077C5}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2489,7 +2486,7 @@
       CHANMODE 0
       GUID {FDF44F14-1E4E-49B3-B79D-BDA2AD289088}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2501,7 +2498,7 @@
       FADEIN 3 0.24412392287394 0 0 0 -1 -1
       FADEOUT 3 0.06308606389541 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {3B6811F0-BD26-453B-9386-995916070742}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2511,7 +2508,7 @@
       CHANMODE 0
       GUID {D9198E65-357A-418B-88C9-3758451B887E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 042.wav"
@@ -2521,7 +2518,7 @@
       CHANMODE 0
       GUID {0AC2BFEE-4680-4B56-B578-0ACD944E220E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 042.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 042.wav"
       >
     >
     <ITEM
@@ -2533,7 +2530,7 @@
       FADEIN 3 0 0 0 0 -1 -1
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {0CC0C0AE-66E3-4A8D-B692-0DDF20EAA4D5}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2543,7 +2540,7 @@
       CHANMODE 0
       GUID {E30DC03C-9C6D-4718-AB89-B99D94EF2B7C}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2555,7 +2552,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {A19044E8-B359-4931-ACD5-0CA448CEE52F}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2565,7 +2562,7 @@
       CHANMODE 0
       GUID {3CBCDAA5-ACE6-47F4-A2B1-219C572B1565}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2577,7 +2574,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.02674664799434 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {DE499288-CE33-47A6-8698-0D4B5C5C97F5}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2587,7 +2584,7 @@
       CHANMODE 0
       GUID {049A2C68-FFC1-4C64-B0DF-901FC9523AE7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2599,7 +2596,7 @@
       FADEIN 3 0.14720081575598 0 0 0 -1 -1
       FADEOUT 3 0.07843441176726 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {1719B952-D3B9-4B59-9A63-EEFFF5DD0E60}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2609,7 +2606,7 @@
       CHANMODE 0
       GUID {7A021270-0354-41D4-AAA3-B4564A75D286}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 043.wav"
@@ -2619,7 +2616,7 @@
       CHANMODE 0
       GUID {0AC8E74B-4755-4084-9D91-B5FB512946E7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 043.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 043.wav"
       >
     >
     <ITEM
@@ -2631,7 +2628,7 @@
       FADEIN 3 0 0 0 0 -1 -1
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {548364F6-193F-4A08-8E99-7DF9480908AF}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2641,7 +2638,7 @@
       CHANMODE 0
       GUID {D10BF42F-1620-44A7-9F51-9E4AB468FC1C}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2653,7 +2650,7 @@
       FADEIN 0 0.18967175478735 0 0 0 0 0
       FADEOUT 3 0.10557125963629 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9B60D438-E6DF-4B63-9F45-655B81B8C097}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2663,7 +2660,7 @@
       CHANMODE 0
       GUID {801E2CBB-90F1-4FCF-8730-DF84C8109EC8}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 044.wav"
@@ -2673,7 +2670,7 @@
       CHANMODE 0
       GUID {71A708D6-6101-4136-BED3-E13DDEF131A5}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 044.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 044.wav"
       >
     >
     <ITEM
@@ -2685,7 +2682,7 @@
       FADEIN 3 0.0169668095844 0 0 0 -1 -1
       FADEOUT 0 0.03690358726061 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D336EC90-337E-4CB5-82EA-857658F9D142}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2695,7 +2692,7 @@
       CHANMODE 0
       GUID {9DADABDC-D4CC-4DA2-B49D-9C87B6455BFB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2707,7 +2704,7 @@
       FADEIN 0 0.12333850325871 0 0 0 0 0
       FADEOUT 0 0.27133233950815 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {CC05B445-9121-4776-BDFB-77329F8033B1}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2717,7 +2714,7 @@
       CHANMODE 0
       GUID {2483C2A2-7B38-415C-BE01-948D4812FD71}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 045.wav"
@@ -2727,7 +2724,7 @@
       CHANMODE 0
       GUID {70C56A53-E046-4C17-890F-A37721E69E46}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 045.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 045.wav"
       >
     >
     <ITEM
@@ -2739,7 +2736,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.03456916979553 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F6D990C4-CF0D-4D1F-B53E-46E5E5B63441}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2749,7 +2746,7 @@
       CHANMODE 0
       GUID {B660482A-AFFC-4BC3-B689-7DE255FB52D1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2761,7 +2758,7 @@
       FADEIN 3 0.17874384770363 0 0 0 -1 -1
       FADEOUT 3 0.22783329132392 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9D2C7988-0AAF-4D1B-895E-D4FC38BD94A1}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2771,7 +2768,7 @@
       CHANMODE 0
       GUID {84FCDEBD-CD01-428D-9F11-AAF70D36F0C5}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 046.wav"
@@ -2781,7 +2778,7 @@
       CHANMODE 0
       GUID {5F1671C6-D8F5-4D41-AC4A-06F64B41FA20}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 046.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 046.wav"
       >
     >
     <ITEM
@@ -2793,7 +2790,7 @@
       FADEIN 3 0 0 0 0 -1 -1
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {DDA12071-180B-4CF4-B6D8-11D44D659870}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2803,7 +2800,7 @@
       CHANMODE 0
       GUID {93CB0BEC-FB22-44A3-842E-F35ED54E39F2}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2815,7 +2812,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.04855463585591 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {DCDC7423-9D03-4ED0-AFB9-FDD334236B4F}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2825,7 +2822,7 @@
       CHANMODE 0
       GUID {AD7248F8-E130-4F8A-919D-AD4614834605}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2837,7 +2834,7 @@
       FADEIN 3 0.16060379552346 0 0 0 -1 -1
       FADEOUT 0 0.10364522992177 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {994AD055-BEFF-438D-A95F-4C408FD5498B}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2847,7 +2844,7 @@
       CHANMODE 0
       GUID {04E99265-49F2-4A9E-A6F5-50953986A869}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 047.wav"
@@ -2857,7 +2854,7 @@
       CHANMODE 0
       GUID {DA24FA13-5C4C-4D15-9E48-AAB484CF38DB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 047.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 047.wav"
       >
     >
     <ITEM
@@ -2869,7 +2866,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.0169668095844 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9BE37B61-B1FE-404F-9421-80471EBF54F8}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2879,7 +2876,7 @@
       CHANMODE 0
       GUID {2AE1BCB6-9B36-44A9-A930-AB6908CDD8CE}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -2891,7 +2888,7 @@
       FADEIN 3 0.0754080425973 0 0 0 -1 -1
       FADEOUT 0 0.15770138239315 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6B45A0FC-6D95-48D2-AB40-7E0270B4FC56}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2901,7 +2898,7 @@
       CHANMODE 0
       GUID {95803176-2BFE-4007-AD32-4C6DBFE9FE57}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 048.wav"
@@ -2911,7 +2908,7 @@
       CHANMODE 0
       GUID {6D5FB974-D5E8-45C0-B9D1-F93C835AC41A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 048.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 048.wav"
       >
     >
     <ITEM
@@ -2923,7 +2920,7 @@
       FADEIN 0 0.17133520930651 0 0 0 0 0
       FADEOUT 0 0.21442786457993 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {426C9221-A7AC-412B-9E26-4EAAE24AABD9}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2933,7 +2930,7 @@
       CHANMODE 0
       GUID {AFDE49F1-FEC2-45EF-A8AB-28F6FA6C1181}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 049.wav"
@@ -2943,7 +2940,7 @@
       CHANMODE 0
       GUID {2DD8EBB9-EBA7-493D-8EF1-F8362AFC63F2}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 049.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 049.wav"
       >
     >
     <ITEM
@@ -2955,7 +2952,7 @@
       FADEIN 0 0.56363359013017 0 0 0 0 0
       FADEOUT 0 0.32706088950391 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {7BD71152-6E32-4161-B0B1-E8DD25EB60C8}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2965,7 +2962,7 @@
       CHANMODE 0
       GUID {325DACCF-5B1A-4D55-B49F-7646334B49C0}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 050.wav"
@@ -2975,7 +2972,7 @@
       CHANMODE 0
       GUID {0BA30BDE-A7AE-443E-8BD9-579F701ECB9F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 050.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 050.wav"
       >
     >
     <ITEM
@@ -2987,7 +2984,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.05352798277562 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {2791030B-6B12-4B8C-A066-9A12DD9F942C}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -2997,7 +2994,7 @@
       CHANMODE 0
       GUID {81E2CFB0-1A66-40D5-AC26-4B8D87AED5E4}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3009,7 +3006,7 @@
       FADEIN 3 0.20933061678863 0 0 0 -1 -1
       FADEOUT 0 0.20134189147485 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {865F3D21-DCDB-4E4A-AE8E-0B7BB7FFCDFF}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -3019,7 +3016,7 @@
       CHANMODE 0
       GUID {2B467990-C18D-4D7D-942F-BD5DC3158EBB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 051.wav"
@@ -3029,7 +3026,7 @@
       CHANMODE 0
       GUID {34EC7502-F0DB-4CC0-BA52-6C8DA38F79DD}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 051.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 051.wav"
       >
     >
     <ITEM
@@ -3041,7 +3038,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.01346569951374 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F0FB3552-1F36-42A4-90CB-240DECCA8CFD}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -3051,7 +3048,7 @@
       CHANMODE 0
       GUID {EA9DA30B-20FB-4214-9259-2C1B7F808800}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3063,7 +3060,7 @@
       FADEIN 3 0.04901522768824 0 0 0 -1 -1
       FADEOUT 3 0.0338012819546 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {AE0658EB-1683-44A2-A592-5AC7C09D1A37}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -3073,7 +3070,7 @@
       CHANMODE 0
       GUID {8B8D635B-E59F-4486-B121-92C60668EF03}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 052.wav"
@@ -3083,7 +3080,7 @@
       CHANMODE 0
       GUID {992A9F51-815E-4FDF-A126-236912A96E8D}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 052.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 052.wav"
       >
     >
     <ITEM
@@ -3095,7 +3092,7 @@
       FADEIN 3 0.01352051278184 0 0 0 -1 -1
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {05D5C524-594D-4A89-9873-C723428AD2F7}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -3105,7 +3102,7 @@
       CHANMODE 0
       GUID {497E8F2B-E88C-4705-895A-BE99C92110A7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3117,7 +3114,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 3 0.03016321703893 0 0 0 1 1
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {BAAAD318-2456-4CEC-BAC4-0CC18839A465}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -3127,7 +3124,7 @@
       CHANMODE 0
       GUID {4B476176-6B32-4D8F-82BA-FE5473164C93}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3139,7 +3136,7 @@
       FADEIN 3 0.10934166176611 0 0 0 -1 -1
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {DF403CFC-5315-4D40-96F0-92AD2A2A6280}
       IID 1
       NAME "FIX soulbound lore .wav"
@@ -3149,7 +3146,7 @@
       CHANMODE 0
       GUID {5659F845-E035-4897-9643-CBFCA49DCBAD}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
       TAKE SEL
       NAME "FIX soulbound lore  copy 053.wav"
@@ -3159,7 +3156,7 @@
       CHANMODE 0
       GUID {78054375-F188-4268-9E62-22404FC045BF}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore  copy 053.wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore  copy 053.wav"
       >
     >
     <ITEM
@@ -3181,7 +3178,7 @@
       CHANMODE 0
       GUID {1D055B2A-DE1A-452A-87CB-2DDB688DEA15}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3203,7 +3200,7 @@
       CHANMODE 0
       GUID {7AAAC8F2-B2C6-4290-9D59-DA6AAC96A6B2}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3225,7 +3222,7 @@
       CHANMODE 0
       GUID {2172695B-2F2E-4257-9178-091F6E9EC2F5}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3247,7 +3244,7 @@
       CHANMODE 0
       GUID {FD6E9618-C2EA-464C-BC78-08BD5EA87F1B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3269,7 +3266,7 @@
       CHANMODE 0
       GUID {5F581636-D62E-42E2-A666-D6368421E7D8}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3291,7 +3288,7 @@
       CHANMODE 0
       GUID {F7CF7ED6-33CE-403C-857D-5D571BEDF7B9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3313,7 +3310,7 @@
       CHANMODE 0
       GUID {B132553A-2892-46CA-BB91-E9E33D054916}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3335,7 +3332,7 @@
       CHANMODE 0
       GUID {740BD3F0-F259-4AF7-9F01-14B913FD67B3}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3357,7 +3354,7 @@
       CHANMODE 0
       GUID {DC1E8B80-0FC5-4243-AACB-19D8D6513C2D}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3379,7 +3376,7 @@
       CHANMODE 0
       GUID {B0E90A3F-1EB2-47EA-AF23-2C6B4DD7AC1B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3401,7 +3398,7 @@
       CHANMODE 0
       GUID {0E8AEBB5-A02D-4247-B878-94FE8A5C6E12}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3423,7 +3420,7 @@
       CHANMODE 0
       GUID {0826A706-656B-49DA-8B99-CD8297C75369}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3445,7 +3442,7 @@
       CHANMODE 0
       GUID {5C174345-AD86-4B36-82E9-7FFF2A6CA8EC}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3467,7 +3464,7 @@
       CHANMODE 0
       GUID {3A36738E-BB85-4F3F-A08E-99BB075E16CB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3489,7 +3486,7 @@
       CHANMODE 0
       GUID {7C72F4D5-5FCD-4980-89DC-425DDE9D663A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3511,7 +3508,7 @@
       CHANMODE 0
       GUID {A402A6A2-7D70-47D0-B9F2-F1BA3F62E155}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3533,7 +3530,7 @@
       CHANMODE 0
       GUID {D32BB408-B524-49CE-84CD-07FBEC0AF335}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3555,7 +3552,7 @@
       CHANMODE 0
       GUID {126D3F28-2C90-490E-9277-9FE209476590}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3577,7 +3574,7 @@
       CHANMODE 0
       GUID {82CDB0CB-E1DF-4829-A051-926861420050}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3599,7 +3596,7 @@
       CHANMODE 0
       GUID {98E37EF9-17CF-4366-8BEA-2C7892A6A7E9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3621,7 +3618,7 @@
       CHANMODE 0
       GUID {A1BEB07B-C1D6-42B5-9C6B-6123E5FE5F7B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3643,7 +3640,7 @@
       CHANMODE 0
       GUID {4019BC77-C09A-4E88-9857-BFED0C93DBF3}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3665,7 +3662,7 @@
       CHANMODE 0
       GUID {946FE314-B59B-4EE3-A29C-B4A3D8DF37BB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3687,7 +3684,7 @@
       CHANMODE 0
       GUID {D2E1CB7E-3223-4CD2-9234-6258C23740CB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3709,7 +3706,7 @@
       CHANMODE 0
       GUID {E04117DA-4D23-48BD-A2A8-559EBE7BFEB6}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3731,7 +3728,7 @@
       CHANMODE 0
       GUID {FAD3DA91-7C6E-4A34-A737-26AED7C84057}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3753,7 +3750,7 @@
       CHANMODE 0
       GUID {385420A1-8934-4A56-AC10-E776D160FB44}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3775,7 +3772,7 @@
       CHANMODE 0
       GUID {7AFF8A22-98AD-4523-834A-C30331B8CAD7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3797,7 +3794,7 @@
       CHANMODE 0
       GUID {7AE54BFF-8FB2-4947-98CB-C18DCD82B29A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3819,7 +3816,7 @@
       CHANMODE 0
       GUID {51C06905-0BD5-4407-82A1-79FEFD8BE518}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3841,7 +3838,7 @@
       CHANMODE 0
       GUID {2719C492-04EA-4218-8D8F-40265CC81598}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3863,7 +3860,7 @@
       CHANMODE 0
       GUID {BAEFB8D0-6273-4A22-A3E9-DC91E57C8A1F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3885,7 +3882,7 @@
       CHANMODE 0
       GUID {9F46E283-1D52-4F5B-8BC7-20E2C8334220}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3907,7 +3904,7 @@
       CHANMODE 0
       GUID {B776A78B-6415-445F-BCF9-6CF19E6DC766}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3929,7 +3926,7 @@
       CHANMODE 0
       GUID {36B3C43B-58AD-4112-9BC5-97812776D66B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3951,7 +3948,7 @@
       CHANMODE 0
       GUID {F5063E97-9595-435D-ABF4-9129D98E245A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3973,7 +3970,7 @@
       CHANMODE 0
       GUID {ECB47EEC-CC1A-44D9-B044-9532D13AC81B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -3995,7 +3992,7 @@
       CHANMODE 0
       GUID {9024B497-69E4-4A38-8732-3E91E62A8D67}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4017,7 +4014,7 @@
       CHANMODE 0
       GUID {4EC77411-85B3-4E7D-9093-32A260716566}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4039,7 +4036,7 @@
       CHANMODE 0
       GUID {A09B23AA-0B44-47A3-8144-0F30B498C64F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4061,7 +4058,7 @@
       CHANMODE 0
       GUID {63759286-28A9-4F1D-B6FF-0B2E94078A78}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4083,7 +4080,7 @@
       CHANMODE 0
       GUID {E20E7CF3-2057-42E2-A3EC-F93D1F108734}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4105,7 +4102,7 @@
       CHANMODE 0
       GUID {3B4191A5-FB93-4E64-961E-AA831F5D99BD}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4127,7 +4124,7 @@
       CHANMODE 0
       GUID {251DFD8E-52C4-45CA-8C83-5E4463364BF0}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4149,7 +4146,7 @@
       CHANMODE 0
       GUID {3AF54F0D-590E-43C9-A557-EDC4A5E43DB4}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4171,7 +4168,7 @@
       CHANMODE 0
       GUID {13A17D9C-7C14-4533-ADD3-DC52A914874F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4193,7 +4190,7 @@
       CHANMODE 0
       GUID {147BA999-342D-434E-93D9-41781B712844}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4215,7 +4212,7 @@
       CHANMODE 0
       GUID {3366477E-4C57-4B74-B2B9-551904A720C9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4237,7 +4234,7 @@
       CHANMODE 0
       GUID {661ED0FD-ABF7-4D1E-811C-24EDA931C14F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4259,7 +4256,7 @@
       CHANMODE 0
       GUID {56B23834-CE21-46A4-8768-11DCD607FB79}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4281,7 +4278,7 @@
       CHANMODE 0
       GUID {140DDDCD-EBAD-4980-91EF-D64313C2ACB9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4303,7 +4300,7 @@
       CHANMODE 0
       GUID {C801FDAF-EEE2-48F7-9A31-E4E30747508E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4325,7 +4322,7 @@
       CHANMODE 0
       GUID {B97BCEAB-4BCE-40E2-837B-27AFC8DC99BF}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4347,7 +4344,7 @@
       CHANMODE 0
       GUID {D148B59C-5C3A-4A5E-8923-3D3F4E9C5E30}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4369,7 +4366,7 @@
       CHANMODE 0
       GUID {B1BB8AFD-A4C8-406B-8C0E-D8DCF203CA5E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4391,7 +4388,7 @@
       CHANMODE 0
       GUID {CA985FC9-F20E-450F-BE1E-527CD4F134DD}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4413,7 +4410,7 @@
       CHANMODE 0
       GUID {8C3976BA-B5C7-4D8A-A5ED-37C4789449C8}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4435,7 +4432,7 @@
       CHANMODE 0
       GUID {C775D472-57CC-45CC-B0C0-C155DF6E3279}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4457,7 +4454,7 @@
       CHANMODE 0
       GUID {E9B03FD8-01C9-4ACE-9D0F-807EE19FFF61}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4479,7 +4476,7 @@
       CHANMODE 0
       GUID {CEE26788-8BBE-4A61-8AF6-6B4D6B00A25E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4501,7 +4498,7 @@
       CHANMODE 0
       GUID {C8F91002-9334-4F1C-94B7-003008A9C083}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4523,7 +4520,7 @@
       CHANMODE 0
       GUID {3EC118F3-0582-4318-AC6C-6CCAE600F7E1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4545,7 +4542,7 @@
       CHANMODE 0
       GUID {9949A45C-889E-46D0-9079-30FE121305E9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4567,7 +4564,7 @@
       CHANMODE 0
       GUID {21FB99EC-979E-4006-9BB3-8CEEFB50D7F4}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4589,7 +4586,7 @@
       CHANMODE 0
       GUID {53505190-547F-4B8A-8314-84210D324BEF}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4611,7 +4608,7 @@
       CHANMODE 0
       GUID {FAD4B7CD-AFE5-414A-A21A-2C299CDFBB84}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4633,7 +4630,7 @@
       CHANMODE 0
       GUID {7475650F-0908-4A3F-A6BB-74AA410CD408}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4655,7 +4652,7 @@
       CHANMODE 0
       GUID {41F89A11-C565-4B9D-B372-EA126DAF8690}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4677,7 +4674,7 @@
       CHANMODE 0
       GUID {1A4890A1-3F7F-4720-835A-945BF31AC00F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4699,7 +4696,7 @@
       CHANMODE 0
       GUID {A215EB1D-0BEE-4BFA-BCA9-BC011637EA6F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4721,7 +4718,7 @@
       CHANMODE 0
       GUID {2D287964-A061-4F81-B30A-CFCBFD795E8D}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4743,7 +4740,7 @@
       CHANMODE 0
       GUID {6B1C5D60-C7C6-4871-802A-54DA1C75E7B7}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4765,7 +4762,7 @@
       CHANMODE 0
       GUID {780E3160-847C-444E-8965-486837322920}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4787,7 +4784,7 @@
       CHANMODE 0
       GUID {F41740F9-BCEB-4DDE-83AC-F9EF3A9EBF46}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4809,7 +4806,7 @@
       CHANMODE 0
       GUID {B749B6E7-31ED-49C5-B273-075A00D61232}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4831,7 +4828,7 @@
       CHANMODE 0
       GUID {5360A2FA-D61D-4F18-A311-DDABAF8A3F97}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4853,7 +4850,7 @@
       CHANMODE 0
       GUID {04C65001-D694-4B13-BEA4-F877F537BD64}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4875,7 +4872,7 @@
       CHANMODE 0
       GUID {4AE0233C-DB01-4598-83C2-F80B9B232B3C}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4897,7 +4894,7 @@
       CHANMODE 0
       GUID {1D794645-3C27-4F58-A196-75D98BBDD9E5}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4919,7 +4916,7 @@
       CHANMODE 0
       GUID {4A222485-126C-4902-B678-187501C5736E}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4941,7 +4938,7 @@
       CHANMODE 0
       GUID {C3325F76-47BE-4EA3-AEDA-6630A9E4805F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4963,7 +4960,7 @@
       CHANMODE 0
       GUID {7B43CE10-71CE-4C51-BD19-20DC460D6A29}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -4985,7 +4982,7 @@
       CHANMODE 0
       GUID {6DD2C133-266B-49CC-B1A7-F978E9095BB1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5007,7 +5004,7 @@
       CHANMODE 0
       GUID {1E5F5371-CC0A-4E2B-8B47-81FF045AAC70}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5029,7 +5026,7 @@
       CHANMODE 0
       GUID {C8B85EBA-2013-45FE-A808-29DC9C9AAECD}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5051,7 +5048,7 @@
       CHANMODE 0
       GUID {A1BEEFD1-ECCB-4B97-9A75-4077F0FFB522}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5073,7 +5070,7 @@
       CHANMODE 0
       GUID {0B0FD907-4B22-44D0-B0C2-D96FD7EF29EB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5095,7 +5092,7 @@
       CHANMODE 0
       GUID {7781A4E9-4CE3-4F6D-845C-7CF966BC1CC6}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5117,7 +5114,7 @@
       CHANMODE 0
       GUID {6F00D659-C0A1-4638-829D-F5C0B6FC9468}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5139,7 +5136,7 @@
       CHANMODE 0
       GUID {26CF85F1-C0F3-42DB-837F-EF822050455F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5161,7 +5158,7 @@
       CHANMODE 0
       GUID {84468F8F-AD16-4DBD-A0EE-59B2E48B04F9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5183,7 +5180,7 @@
       CHANMODE 0
       GUID {4B0C56E9-E75C-4A31-A7DA-FD9D7C613A4B}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5205,7 +5202,7 @@
       CHANMODE 0
       GUID {FEDD9D99-2596-404D-ACC2-BAFD66D96BC4}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5227,7 +5224,7 @@
       CHANMODE 0
       GUID {9BECEB85-F8AD-4571-880A-251E75D1720A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5249,7 +5246,7 @@
       CHANMODE 0
       GUID {6062674F-7850-4FBA-B6D7-49A53088D72D}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5271,7 +5268,7 @@
       CHANMODE 0
       GUID {9D115894-64B9-4F68-887D-5A7FA461970F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5293,7 +5290,7 @@
       CHANMODE 0
       GUID {6E3580DC-9576-4BCB-9AF5-D6569DC23E78}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5315,7 +5312,7 @@
       CHANMODE 0
       GUID {8AB4D0A8-41FA-4442-B05D-C772C03BAAAE}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5337,7 +5334,7 @@
       CHANMODE 0
       GUID {B9B4A8FF-466D-458A-B6A5-E94EBA8A4EBB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5359,7 +5356,7 @@
       CHANMODE 0
       GUID {264D21C6-3EA8-4EF1-9238-AAE8ABDC7461}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5381,7 +5378,7 @@
       CHANMODE 0
       GUID {A5B84932-A7DE-46C9-9C60-B68255DE4C12}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5403,7 +5400,7 @@
       CHANMODE 0
       GUID {6F3C7566-BC07-4625-8C55-53546985C98A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5425,7 +5422,7 @@
       CHANMODE 0
       GUID {03794AAC-9CBD-4F6D-ADEF-2FE02AD92B16}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5447,7 +5444,7 @@
       CHANMODE 0
       GUID {C5786022-A7E8-4451-AA78-454DB1A77C6C}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5469,7 +5466,7 @@
       CHANMODE 0
       GUID {7F780370-8100-4397-9A1A-8786FD482FC9}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5491,7 +5488,7 @@
       CHANMODE 0
       GUID {1015C46F-A753-4C5D-8702-61D7C0A240EA}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5513,7 +5510,7 @@
       CHANMODE 0
       GUID {3F26ABE5-3AD1-4AF6-9A24-E54D77FC5736}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5535,7 +5532,7 @@
       CHANMODE 0
       GUID {361CB05E-B0E6-473C-A91E-095B41637494}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5557,7 +5554,7 @@
       CHANMODE 0
       GUID {0DC13B98-9001-4904-93D6-A8D2CEB91CE3}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5579,7 +5576,7 @@
       CHANMODE 0
       GUID {537CCC22-23E1-4CB9-A4A8-75F936F81962}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5601,7 +5598,7 @@
       CHANMODE 0
       GUID {DDA6762F-237D-4241-95F5-23BAF708C90C}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5623,7 +5620,7 @@
       CHANMODE 0
       GUID {560862FD-C36D-49A7-851F-A81F6CB24127}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5645,7 +5642,7 @@
       CHANMODE 0
       GUID {3CCCA5D2-4AB9-4910-B2A9-261D84237516}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5667,7 +5664,7 @@
       CHANMODE 0
       GUID {E53A54F6-8DA8-496F-BB31-E49CF5E94286}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5689,7 +5686,7 @@
       CHANMODE 0
       GUID {EB3ACBA4-2E68-403E-9019-EE5C11CDAF76}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5711,7 +5708,7 @@
       CHANMODE 0
       GUID {62A02B6F-B172-44E0-9AD7-DB16271878B8}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5733,7 +5730,7 @@
       CHANMODE 0
       GUID {1CAD3606-C2B2-43C5-A873-8DD4A0E3D3A1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5755,7 +5752,7 @@
       CHANMODE 0
       GUID {70D29724-0880-447B-8712-D870C32CC430}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5777,7 +5774,7 @@
       CHANMODE 0
       GUID {6DA98A7C-9525-4819-9D67-342D7FB1B4B2}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5799,7 +5796,7 @@
       CHANMODE 0
       GUID {CF11943F-5D27-4E2E-A4EF-2710B89816DB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5821,7 +5818,7 @@
       CHANMODE 0
       GUID {CE9D32FE-5385-4849-B963-AD0576AB63BB}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5843,7 +5840,7 @@
       CHANMODE 0
       GUID {00CF8D6D-79B9-4F52-8416-614099A1525D}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5865,7 +5862,7 @@
       CHANMODE 0
       GUID {617E4051-B93B-40EE-B5B1-B514F9FE882A}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -5887,7 +5884,7 @@
       CHANMODE 0
       GUID {DD82841C-2AB3-4C94-AC56-E6B8CACE98CF}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
   >
@@ -6130,7 +6127,7 @@
       CHANMODE 0
       GUID {30EF2B99-5C42-4499-A9CC-7E2C8BFC683F}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -6152,7 +6149,7 @@
       CHANMODE 0
       GUID {DB45F493-E0F4-4670-A3FB-54BC4CCA1535}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
     <ITEM
@@ -6174,7 +6171,7 @@
       CHANMODE 0
       GUID {0AA915FD-733B-4E95-B840-5A05F2F3EAC1}
       <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
+        FILE "D:\[Fork]\20260416_DigitalCircus_SoulBoundOdysesy_Lore-Video\Audio Files\FIX soulbound lore .wav"
       >
     >
   >
