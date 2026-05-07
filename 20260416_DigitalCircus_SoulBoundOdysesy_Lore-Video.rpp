@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.43/win64" 1777543059
+<REAPER_PROJECT 0.1 "7.43/win64" 1778192019
   <NOTES 0 2
   >
   RIPPLE 0 1
@@ -18,8 +18,8 @@
   TIMEMODE 5 1 -1 24 0 -1 -1
   VIDEO_CONFIG 0 0 164352
   PANMODE 5
-  CURSOR 468.32432686061384
-  ZOOM 0.37773549214508 0 0
+  CURSOR 1069.6328209411772
+  ZOOM 5.43517480872847 5315 0
   VZOOMEX 35 0
   USE_REC_CFG 0
   RECMODE 1
@@ -44,7 +44,6 @@
   RENDER_STEMS 98900
   RENDER_DITHER 0
   RENDER_NORMALIZE 2097216 0.063096 0.891251 0 0 1 1
-  RENDER_TRIM 0 0 0 0
   TIMELOCKMODE 0
   TEMPOENVLOCKMODE 0
   ITEMMIX 0
@@ -85,10 +84,10 @@
   MASTER_FX 1
   MASTER_SEL 0
   <MASTERFXLIST
-    WNDRECT 445 88 735 703
+    WNDRECT 413 401 646 441
     SHOW 0
     LASTSEL 0
-    DOCKED 0
+    DOCKED 1
     BYPASS 0 0 0
     <VST "VST3: WLM Plus Stereo (Waves)" "WaveShell1-VST3 16.7_x64.vst3" 0 "" 332903203{56535457574C53776C6D20706C757320} ""
       I7PXE+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAoAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAABAAAAAAAAAAIAAAAAAAAAA
@@ -98,10 +97,10 @@
       L1BsdWdpblN1YkNvbXA+CiAgIDxQbHVnaW5WZXJzaW9uPjE2LjcuMzMuMTg5PC9QbHVnaW5WZXJzaW9uPgogICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0
       dXA+CiAgIDxMb2FkTWVudUNhdGVnb3J5PkZhY3Rvcnk8L0xvYWRNZW51Q2F0ZWdvcnk+CiAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICA8L1ByZXNldEhlYWRl
       cj4KICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSIgU2V0dXBOYW1lPSJXTE0gRnVsbCBSZXNldCI+CiAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+CjAg
-      KiAqICogKiAqICogKiAtMiAtMy40NDM1Nzg1MjkyNTg4MDA4MTMzCjIgMCAtNTQgLTU0IC01NCAtMTggLTE4IDQ0ICogKgowIDAgMCAtMTguOTk2MzgzMTAyOTE3NDA1
-      OTQ5IDAgLTMuNDQzNTc4NTI5MjU4ODAwODEzMyAqICogMCAwCjEgMCAwIDAgKiAqICogKiAtMjMgLTIwCi0xNSA2OTggMjAwIDQwIDYwMyA4MDkgMTAwMCAxIC0xMiAw
+      KiAqICogKiAqICogKiAtMiAtMTEuODE4MzIyMDUyMzIzMTUwNDczCjIgMCAtNTQgLTU0IC01NCAtMTggLTE4IDQ0ICogKgowIDAgMCAtMjIuMjc2MjcwMjg1ODgwODY1
+      ODg1IDAgLTExLjgxODMyMjA1MjMyMzE1MDQ3MyAqICogMCAwCjEgMCAwIDAgKiAqICogKiAtMjMgLTIwCi0xNSA2OTggMjAwIDQwIDYwMyA4MDkgMTAwMCAxIC0xMiAw
       CjAgMC4wMTAwMDAwMDAwMDAwMDAwMDAyMDggMTUwIDAgMTUwMDAgMCAtNDIgNTAwIDIwMDQgNTAwMQotNDIgNTAwMSAqICogKiAwIDEgMC41IDEyMDUgMTIwNQoqIDEw
-      MDAgNTA4IDIwMCAtNzQgKiAwLjQ1NDIzMzczNTc5OTc4OTQyODcxICogKiAqCiogKiAqICogKiAqICogKiAqICoKKiAwIDAgMiAwIDAgKiAqIDIgNQoxIDAgMCAwIDAg
+      MDAgNTA4IDIwMCAtNzQgKiAwLjEwNDM3MzYxMTUwOTc5OTk1NzI4ICogKiAqCiogKiAqICogKiAqICogKiAqICoKKiAwIDAgMCAwIDAgKiAqIDIgNQoxIDAgMCAwIDAg
       LTE2IC0zMiAtMjQgOTAgNzQKODMgMCAwIDggLTU5LjkzOTk5OTk5OTk5OTk5NzcyNiAyIDAgKiAqICoKKiAqIDAgKiAqICogMCAwIDAgMAoyICogMSAxIDAgNCAqIDAg
       KiAwCjwvUGFyYW1ldGVycz4KICAgPFBsdWdpblNwZWNpZmljWE1MRGF0YSAvPgogIDwvUHJlc2V0RGF0YT4KICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiIgU2V0
       dXBOYW1lPSJXTE0gRnVsbCBSZXNldCI+CiAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+CjAgKiAqICogKiAqICogKiAtMiAtMTIuMTI5NjUyNjkwODI2NjA0
@@ -114,7 +113,7 @@
       AFdMTSBGdWxsIFJlc2V0ABAAAAA=
     >
     PRESETNAME "WLM Full Reset"
-    FLOAT -497 24 505 656
+    FLOATPOS -497 24 505 656
     FXID {D6330DFD-0B5F-4559-8504-7DAE9AEBF476}
     WAK 0 0
     BYPASS 0 0 0
@@ -130,7 +129,7 @@
       ciBuYW1lPSJBdmVyYWdlIFRpbWUiIG1hcHBlZD0iMS4wIi8+PC9BbmFseXNpcz48QXJ0aWZhY3RNb25pdG9yaW5nPjxQYXJhbWV0ZXIgbmFtZT0iQWN0aXZlIiBtYXBw
       ZWQ9IjAuMCIvPjwvQXJ0aWZhY3RNb25pdG9yaW5nPjxDb2RlYz48UGFyYW1ldGVyIG5hbWU9IkFjdGl2ZSIgbWFwcGVkPSIwLjAiLz48UGFyYW1ldGVyIG5hbWU9IkNv
       ZGVjIiBtYXBwZWQ9IjEuMCIvPjxQYXJhbWV0ZXIgbmFtZT0iQml0UmF0ZSIgbWFwcGVkPSIyNTYuMCIvPjxQYXJhbWV0ZXIgbmFtZT0iQXJ0ZWZhY3RzIiBtYXBwZWQ9
-      IjAuMCIvPjxQYXJhbWV0ZXIgbmFtZT0iSW5TZXR1cCIgbWFwcGVkPSIxLjAiLz48L0NvZGVjPjxEeW5hbWljcz48UGFyYW1ldGVyIG5hbWU9IkFjdGl2ZSIgbWFwcGVk
+      IjAuMCIvPjxQYXJhbWV0ZXIgbmFtZT0iSW5TZXR1cCIgbWFwcGVkPSIwLjAiLz48L0NvZGVjPjxEeW5hbWljcz48UGFyYW1ldGVyIG5hbWU9IkFjdGl2ZSIgbWFwcGVk
       PSIxLjAiLz48UGFyYW1ldGVyIG5hbWU9IlBTUiIgbWFwcGVkPSIwLjAiLz48UGFyYW1ldGVyIG5hbWU9IkdyYXBoTFVGU1JhbmdlTWluIiBtYXBwZWQ9Ii0wLjkiLz48
       UGFyYW1ldGVyIG5hbWU9IkdyYXBoTFVGU1JhbmdlTWF4IiBtYXBwZWQ9IjI5LjUiLz48UGFyYW1ldGVyIG5hbWU9Ikhpc3RvZ3JhbVBpeGVsU2l6ZSIgbWFwcGVkPSIy
       MzIuMCIvPjxQYXJhbWV0ZXIgbmFtZT0iUFNSUmFuZ2VUaW1lIiBtYXBwZWQ9IjEwLjAiLz48UGFyYW1ldGVyIG5hbWU9IkR5bmFtaWNzVGFnIiBtYXBwZWQ9IjAuMCIv
@@ -179,7 +178,7 @@
     ARM 0
     DEFSHAPE 1 -1 -1
   >
-  MARKER 1 18.83174484155333 "LISP FIX" 8 0 1 R {8736A5A2-482E-4A46-B690-E4F9A477EA05} 0
+  MARKER 1 18.83174484155333 "LISP FIX" 0 0 1 R {8736A5A2-482E-4A46-B690-E4F9A477EA05} 0
   MARKER 2 128.81991756215047 "THEME or THEMES?" 0 0 1 R {00F1757F-1B78-4385-9C9F-10FD8B114460} 0
   <PROJBAY
   >
@@ -197,7 +196,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.490018 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 66
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -3632,25 +3631,69 @@
       >
     >
     <ITEM
-      POSITION 613.4753052319569
+      POSITION 452.38168233093216
       SNAPOFFS 0
-      LENGTH 9.29174821511026
+      LENGTH 161.09362290102479
       LOOP 0
       ALLTAKES 0
-      FADEIN 0 1.20718373739101 0 0 0 0 0
+      FADEIN 0 0.01 0 0 0 0 0
+      FADEOUT 5 0.01 0.01 0 1 0 0
+      MUTE 0 0
+      LOCK 1
+      SEL 0
+      IGUID {69E3B63A-2A95-4251-8109-09E6357E1CEA}
+      IID 1
+      NAME "FIX soulbound lore .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 452.38168233093216
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30EF2B99-5C42-4499-A9CC-7E2C8BFC683F}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore .wav"
+      >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 095.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B79E86E-02F2-41EF-8842-9841CA6A8200}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 095.wav"
+      >
+    >
+    <ITEM
+      POSITION 613.46530523195702
+      SNAPOFFS 0
+      LENGTH 9.30174821511014
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 5 1.20718373739101 0.01 0 1 0 0
       FADEOUT 0 0.13415692733611 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {3DAE6D9C-2B01-4771-861C-CF7FADE1D28D}
       IID 1
       NAME "FIX soulbound lore .wav"
       VOLPAN 1 0 1 -1
-      SOFFS 613.4753052319569
+      SOFFS 613.46530523195702
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {3A36738E-BB85-4F3F-A08E-99BB075E16CB}
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
+      >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 073.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS -0.00999999999988
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7164B3B-E0E7-4752-B07C-03176EC848FA}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 073.wav"
       >
     >
     <ITEM
@@ -3662,6 +3705,7 @@
       FADEIN 0 0.29189851333877 0 0 0 0 0
       FADEOUT 0 0.3193214124916 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {4612886B-F574-47F7-A74A-DA4BC7D60A65}
       IID 1
@@ -3674,6 +3718,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 074.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5C9430E-1D7B-41D8-BC22-358F1DF6290E}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 074.wav"
+      >
     >
     <ITEM
       POSITION 625.51609138053175
@@ -3684,6 +3738,7 @@
       FADEIN 0 0.42533300815694 0 0 0 0 0
       FADEOUT 0 0.54080103294689 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {274B97F2-3E30-4E40-AD1F-032EB170F8EE}
       IID 1
@@ -3697,6 +3752,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 075.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {096DD264-AA38-4CD7-8893-6054BE967113}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 075.wav"
+      >
     >
     <ITEM
       POSITION 638.05170435713035
@@ -3707,6 +3772,7 @@
       FADEIN 0 0.15860856214329 0 0 0 0 0
       FADEOUT 0 0.24702422583471 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {8D6F864D-B7C7-4570-A093-6A7C6072BD43}
       IID 1
@@ -3719,6 +3785,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 076.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CF53CA9-20BC-431A-BF33-BB8B8A8BFCF3}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 076.wav"
+      >
     >
     <ITEM
       POSITION 646.13387588151613
@@ -3729,6 +3805,7 @@
       FADEIN 0 0.26952086595702 0 0 0 0 0
       FADEOUT 0 0.21872520674447 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {B2FCDA01-D554-4A12-9068-CA41AD23F42D}
       IID 1
@@ -3741,6 +3818,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 077.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00A82774-C8D5-43B4-A9E8-E694363FF181}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 077.wav"
+      >
     >
     <ITEM
       POSITION 654.49095119924857
@@ -3751,6 +3838,7 @@
       FADEIN 0 0.17716701689153 0 0 0 0 0
       FADEOUT 0 0.35660585919129 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {BD6DB333-3BF9-4981-9886-1F71296BD0ED}
       IID 1
@@ -3763,6 +3851,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 078.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5E56103-7AD9-443A-AE91-6F837FB81B34}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 078.wav"
+      >
     >
     <ITEM
       POSITION 659.21929644480758
@@ -3773,6 +3871,7 @@
       FADEIN 0 0.7669739755089 0 0 0 0 0
       FADEOUT 0 0.51174456150806 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {438FDDEF-11A6-4519-BDB9-AAF13D69CE3A}
       IID 1
@@ -3785,6 +3884,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 079.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8567B57-8F9F-428E-BE7B-198EC26C1683}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 079.wav"
+      >
     >
     <ITEM
       POSITION 676.37329314962665
@@ -3795,6 +3904,7 @@
       FADEIN 0 0.89838583506184 0 0 0 0 0
       FADEOUT 0 0.79850714500515 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {FE353044-843F-4882-BF01-984E230C95F2}
       IID 1
@@ -3807,6 +3917,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 080.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBA5BD6E-26BF-49FF-A175-6087A0C42BCB}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 080.wav"
+      >
     >
     <ITEM
       POSITION 685.77500288207546
@@ -3817,6 +3937,7 @@
       FADEIN 0 1.18660957636951 0 0 0 0 0
       FADEOUT 0 0.50648736722031 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {BE036830-4D92-4D4C-AC94-6EBA349128EA}
       IID 1
@@ -3829,6 +3950,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 081.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F97078D-20F7-4B13-BD88-5E8570068A2E}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 081.wav"
+      >
     >
     <ITEM
       POSITION 695.50659716654013
@@ -3839,6 +3970,7 @@
       FADEIN 0 0.84708699740179 0 0 0 0 0
       FADEOUT 0 0.38431975694346 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {893D022A-C1C6-4A5D-9265-763638CD5DD2}
       IID 1
@@ -3851,6 +3983,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 082.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD4DD056-7FBB-45CA-8443-1B6C4CFA01C3}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 082.wav"
+      >
     >
     <ITEM
       POSITION 710.95619035261109
@@ -3861,6 +4003,7 @@
       FADEIN 0 0.3603346637052 0 0 0 0 0
       FADEOUT 0 0.23094966203189 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {E4AB398C-91B1-40F7-BC93-B105B365E8BC}
       IID 1
@@ -3873,6 +4016,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 083.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F54FF8CF-B67F-42AC-8E12-91B88C01D88E}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 083.wav"
+      >
     >
     <ITEM
       POSITION 715.51959332216234
@@ -3883,6 +4036,7 @@
       FADEIN 0 0.42698550962973 0 0 0 0 0
       FADEOUT 0 0.44682263237178 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {1BFB7F06-EE60-494F-9591-41F5DA25F070}
       IID 1
@@ -3895,6 +4049,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 084.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D2603B9-5F63-4F50-9CC2-68D915921C9A}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 084.wav"
+      >
     >
     <ITEM
       POSITION 723.38184181187103
@@ -3905,6 +4069,7 @@
       FADEIN 0 0.84076969497755 0 0 0 0 0
       FADEOUT 0 0.58607348331691 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {E805BB68-4575-43DB-BE2B-C97124CA6051}
       IID 1
@@ -3917,6 +4082,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 085.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E833E16-A5B2-42C6-9C5B-F8D9EFE91C6B}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 085.wav"
+      >
     >
     <ITEM
       POSITION 730.69428271488687
@@ -3927,6 +4102,7 @@
       FADEIN 0 0.19817015969522 0 0 0 0 0
       FADEOUT 0 0.39456126758273 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {8F085466-EDB7-463B-9AB7-1005A98EAFCD}
       IID 1
@@ -3939,6 +4115,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 086.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {186D0D7B-8E59-4D3A-B9AE-1C9838D62CFC}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 086.wav"
+      >
     >
     <ITEM
       POSITION 736.85212768584745
@@ -3949,6 +4135,7 @@
       FADEIN 0 1.02122473218208 0 0 0 0 0
       FADEOUT 0 1.17436801542874 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {435BA7CC-F244-4561-9F40-572E6A43D8BB}
       IID 1
@@ -3961,6 +4148,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 087.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3863564-FCF3-44B1-AE93-E58330B5512B}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 087.wav"
+      >
     >
     <ITEM
       POSITION 745.42912603825698
@@ -3971,6 +4168,7 @@
       FADEIN 0 1.05393964332222 0 0 0 0 0
       FADEOUT 0 0.06280077696453 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {A6B6397C-A6C7-45E9-9949-09C98D216B5E}
       IID 1
@@ -3983,6 +4181,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 088.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31C0AD88-8099-4F30-B90C-6FFD4BF5C2E7}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 088.wav"
+      >
     >
     <ITEM
       POSITION 752.57662466526494
@@ -3993,6 +4201,7 @@
       FADEIN 0 0.69127964900872 0 0 0 0 0
       FADEOUT 0 0.2299661317868 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {5141BE42-F21F-46EA-93E3-7DBAD8BE5857}
       IID 1
@@ -4005,6 +4214,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 089.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A29CAD7-8072-4B0F-9D96-81ED97F7E143}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 089.wav"
+      >
     >
     <ITEM
       POSITION 756.48025853078468
@@ -4015,6 +4234,7 @@
       FADEIN 0 0.65796356979672 0 0 0 0 0
       FADEOUT 0 0.55443042096692 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {6EB11A85-FB66-4AF3-AE6E-C82A88810359}
       IID 1
@@ -4027,6 +4247,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 090.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {311B5585-EA15-40B7-935D-C3C0295B9A96}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 090.wav"
+      >
     >
     <ITEM
       POSITION 761.8683728803752
@@ -4037,6 +4267,7 @@
       FADEIN 0 0.81045515004473 0 0 0 0 0
       FADEOUT 0 0.17460317351981 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {1BDD4D0B-21F1-4D8B-B217-16C242BED811}
       IID 1
@@ -4049,6 +4280,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 091.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD92CF02-2D50-46EA-B045-36D2248C71D0}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 091.wav"
+      >
     >
     <ITEM
       POSITION 765.38714143520986
@@ -4059,6 +4300,7 @@
       FADEIN 0 0.30800829910311 0 0 0 0 0
       FADEOUT 0 0.27963842747306 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {F518499E-69FC-439D-9C96-4AE724249EFB}
       IID 1
@@ -4071,6 +4313,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 092.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBCF0B7F-EFA6-486D-B5D5-0111C472FA7C}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 092.wav"
+      >
     >
     <ITEM
       POSITION 776.32831241039889
@@ -4081,6 +4333,7 @@
       FADEIN 0 0.9627090743179 0 0 0 0 0
       FADEOUT 0 0.26833185231476 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {A065DC0B-32A1-452A-89EF-799A581B656F}
       IID 1
@@ -4093,6 +4346,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 093.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BB597C0-CD60-4783-BB42-CCFC43D817B3}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 093.wav"
+      >
     >
     <ITEM
       POSITION 784.35550317611558
@@ -4103,6 +4366,7 @@
       FADEIN 0 0.20485361498345 0 0 0 0 0
       FADEOUT 0 0.24737087831932 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {E6A03936-6447-4955-BAE1-3272A367B3AC}
       IID 1
@@ -4115,6 +4379,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 094.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01FD013A-9CE6-416B-9A04-0896B3EE2912}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 094.wav"
+      >
     >
     <ITEM
       POSITION 799.36525029283212
@@ -4125,6 +4399,7 @@
       FADEIN 0 0.20319217619965 0 0 0 0 0
       FADEOUT 0 0.12653856973077 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {DFA6A772-0888-4922-B6C7-350B07148C8B}
       IID 1
@@ -4137,6 +4412,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 133.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7F1CA03-1B44-4FF8-B3E7-B4208CD797E9}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 133.wav"
+      >
     >
     <ITEM
       POSITION 801.6744421569424
@@ -4147,6 +4432,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {EABCBDF0-AFDE-4BFD-8C36-F91F96A4F70F}
       IID 1
@@ -4169,6 +4455,7 @@
       FADEIN 0 0.30078221643657 0 0 0 0 0
       FADEOUT 0 0.18312486725757 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {5DDE4755-9531-4849-9AF8-C927E2A44EC0}
       IID 1
@@ -4181,6 +4468,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 134.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DEFCF44-83D9-43E9-A542-AD4914DB8FE7}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 134.wav"
+      >
     >
     <ITEM
       POSITION 809.37174837064322
@@ -4191,6 +4488,7 @@
       FADEIN 0 0.32964982240424 0 0 0 0 0
       FADEOUT 0 0.09749383894587 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {26892628-5B8C-4197-9763-6CEDFE10148D}
       IID 1
@@ -4203,6 +4501,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 135.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81DDE5B2-455E-4454-B064-51F79FB4ACA3}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 135.wav"
+      >
     >
     <ITEM
       POSITION 815.58457410027324
@@ -4213,6 +4521,7 @@
       FADEIN 0 0.9638743606115 0 0 0 0 0
       FADEOUT 0 0.32286971765302 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {5464BCB8-2FE1-4201-B81A-72110CAFDF70}
       IID 1
@@ -4225,6 +4534,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 136.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EE9B8DD-EECD-4E7A-8346-B7051B523A92}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 136.wav"
+      >
     >
     <ITEM
       POSITION 822.45716893393467
@@ -4235,6 +4554,7 @@
       FADEIN 0 0.39162148595665 0 0 0 0 0
       FADEOUT 0 0.10191667784261 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {CDB148E6-0D00-4DF7-B5D3-12616AC4B7E6}
       IID 1
@@ -4247,6 +4567,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 137.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65722F5C-0F9D-45F2-817C-A4590E8F9F9A}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 137.wav"
+      >
     >
     <ITEM
       POSITION 827.40543721417089
@@ -4257,6 +4587,7 @@
       FADEIN 0 0.36561318626082 0 0 0 0 0
       FADEOUT 0 0.28065189814561 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {1CE13C75-7C85-42F0-AAC6-AA26F5C6A02C}
       IID 1
@@ -4269,6 +4600,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 138.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B171AFC-61BC-40A3-8F42-39FF256459DE}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 138.wav"
+      >
     >
     <ITEM
       POSITION 832.02382094239147
@@ -4279,6 +4620,7 @@
       FADEIN 0 0.1925335691526 0 0 0 0 0
       FADEOUT 0 0.44125750076193 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {D464F340-C114-4E09-B2DE-F4FA419C4F3A}
       IID 1
@@ -4291,6 +4633,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 139.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {343943DC-6B35-4C20-9EBC-FCD611010FF0}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 139.wav"
+      >
     >
     <ITEM
       POSITION 835.43262797988757
@@ -4301,6 +4653,7 @@
       FADEIN 0 0.55601386258775 0 0 0 0 0
       FADEOUT 0 0.33899522499951 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {FBE55FED-E840-43CA-B864-846E0BB3E525}
       IID 1
@@ -4313,6 +4666,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 140.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E991CA71-9540-44D7-99E6-8A22E43D63E3}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 140.wav"
+      >
     >
     <ITEM
       POSITION 841.37054991617106
@@ -4323,6 +4686,7 @@
       FADEIN 0 0.22845029554537 0 0 0 0 0
       FADEOUT 0 0.20328869828757 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {59DB436D-16FE-4DE8-A05B-67213CA963F7}
       IID 1
@@ -4335,6 +4699,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 141.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B12A608C-70CF-47F6-A243-B8356EED97FB}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 141.wav"
+      >
     >
     <ITEM
       POSITION 845.05426074701359
@@ -4345,6 +4719,7 @@
       FADEIN 0 0.54136572236109 0 0 0 0 0
       FADEOUT 0 0.28902921083625 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {7B831018-7902-4779-8B0F-49D3772075D3}
       IID 1
@@ -4357,6 +4732,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 142.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C628C7D-1365-4B4C-9E87-AF04F4530402}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 142.wav"
+      >
     >
     <ITEM
       POSITION 849.5626829578955
@@ -4367,6 +4752,7 @@
       FADEIN 0 0.20300826711127 0 0 0 0 0
       FADEOUT 0 0.38683127270045 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {35580D4A-2A67-424D-BA15-6CACE06596F5}
       IID 1
@@ -4379,6 +4765,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 143.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2060CC98-C769-447E-B268-267E91F2FB90}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 143.wav"
+      >
     >
     <ITEM
       POSITION 856.54523930889559
@@ -4389,6 +4785,7 @@
       FADEIN 0 1.0911663622071 0 0 0 0 0
       FADEOUT 0 0.23023372818898 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {FDDE60C2-D2E2-4A42-AB74-E694F5FB95E6}
       IID 1
@@ -4401,6 +4798,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 144.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5233DB8-E057-4155-A81F-47BC3DB8F659}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 144.wav"
+      >
     >
     <ITEM
       POSITION 862.20825745183265
@@ -4411,6 +4818,7 @@
       FADEIN 0 0.1863957071613 0 0 0 0 0
       FADEOUT 0 0.35695698033135 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {634C6D58-19FB-4100-89B1-4E661A6D5983}
       IID 1
@@ -4423,6 +4831,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 145.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5F6D2C6-4774-4561-93C1-5B079B00462B}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 145.wav"
+      >
     >
     <ITEM
       POSITION 864.95729538529713
@@ -4433,6 +4851,7 @@
       FADEIN 0 0.64219958408319 0 0 0 0 0
       FADEOUT 0 3.36887463186236 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {2569AA74-2CBE-4B58-8279-0128DA5752FC}
       IID 1
@@ -4445,6 +4864,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 146.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EEADE89-FF62-41FD-8E14-E74A125E1C07}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 146.wav"
+      >
     >
     <ITEM
       POSITION 878.05126833209056
@@ -4455,6 +4884,7 @@
       FADEIN 0 3.24629590498807 0 0 0 0 0
       FADEOUT 0 0.31039385698682 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {CA74B5B7-30A7-4F1D-AFDE-9C8426549D85}
       IID 1
@@ -4467,6 +4897,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 147.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19CC18D0-91BA-4974-8A1C-2093C1DD65B7}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 147.wav"
+      >
     >
     <ITEM
       POSITION 888.5446731501562
@@ -4477,6 +4917,7 @@
       FADEIN 0 0.95798913359727 0 0 0 0 0
       FADEOUT 0 0.4372173657855 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {8F1F7454-EB18-4187-AB0C-94FD4D69324B}
       IID 1
@@ -4489,6 +4930,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 148.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83696D86-163B-400D-A3BB-77E545F427E1}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 148.wav"
+      >
     >
     <ITEM
       POSITION 913.15288048976822
@@ -4499,6 +4950,7 @@
       FADEIN 0 1.25307544802638 0 0 0 0 0
       FADEOUT 0 0.39991326392783 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {42EF9DED-E20C-4B80-855A-5587754E31B0}
       IID 1
@@ -4511,6 +4963,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 149.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {709AD26D-7642-4797-818A-6134CB3F6EFB}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 149.wav"
+      >
     >
     <ITEM
       POSITION 923.57310225797721
@@ -4521,6 +4983,7 @@
       FADEIN 0 0.36430075550356 0 0 0 0 0
       FADEOUT 0 0.41350517698357 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {37173F00-6F26-4C85-A622-2EAF91B385FB}
       IID 1
@@ -4533,6 +4996,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 150.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3723008-B2F2-47C7-BE44-26F2554D804E}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 150.wav"
+      >
     >
     <ITEM
       POSITION 928.9892627250689
@@ -4543,6 +5016,7 @@
       FADEIN 0 0.79119331198126 0 0 0 0 0
       FADEOUT 0 0.46807924153484 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {F5FB7379-9CD7-425A-AA26-10564E93A03B}
       IID 1
@@ -4555,6 +5029,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 151.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E19766B9-BACC-4D2A-BF68-8E2AFB5C8A22}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 151.wav"
+      >
     >
     <ITEM
       POSITION 936.76027556915687
@@ -4565,6 +5049,7 @@
       FADEIN 0 0.70212347571953 0 0 0 0 0
       FADEOUT 0 0.30055361086409 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {847FD509-D77E-4504-9222-DFF3FB919667}
       IID 1
@@ -4577,6 +5062,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 152.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54875ADF-ED9C-4BA0-A52B-DC7FA0FE0989}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 152.wav"
+      >
     >
     <ITEM
       POSITION 942.41192127394822
@@ -4587,6 +5082,7 @@
       FADEIN 0 0.11870269146289 0 0 0 0 0
       FADEOUT 0 0.52182037436796 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {365776AC-A638-4C27-B1DB-7B12B8DFEEC4}
       IID 1
@@ -4599,6 +5095,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 153.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E38CDC1F-5AE2-4387-ABDA-B574B0A41714}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 153.wav"
+      >
     >
     <ITEM
       POSITION 955.1869954191535
@@ -4609,6 +5115,7 @@
       FADEIN 0 0.49978517244142 0 0 0 0 0
       FADEOUT 0 0.19022606027693 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {24AD8428-BF21-44CF-962D-BE90049B718C}
       IID 1
@@ -4621,6 +5128,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 154.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51E85E72-FFD3-490B-841D-64C220318229}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 154.wav"
+      >
     >
     <ITEM
       POSITION 966.90238599471047
@@ -4631,6 +5148,7 @@
       FADEIN 0 0.810151319326 0 0 0 0 0
       FADEOUT 0 0.35957964603472 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {45C73F23-5EC5-4E23-9965-87CF3001BF09}
       IID 1
@@ -4643,6 +5161,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 155.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C14CC802-B9A8-44CE-8F2A-87F3E028BB26}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 155.wav"
+      >
     >
     <ITEM
       POSITION 974.4379136010989
@@ -4653,6 +5181,7 @@
       FADEIN 0 0.4762794377184 0 0 0 0 0
       FADEOUT 0 0.2933816592016 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {9055ACC3-019F-40A8-BA0F-4E2872BE710A}
       IID 1
@@ -4665,6 +5194,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 156.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFA28BFD-5A51-4053-A852-3135EC3678AC}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 156.wav"
+      >
     >
     <ITEM
       POSITION 980.14843061531508
@@ -4675,6 +5214,7 @@
       FADEIN 0 0.44429715122169 0 0 0 0 0
       FADEOUT 0 0.29019741742059 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {5CCB2E92-687D-4293-B67F-0F3AFE3DB69E}
       IID 1
@@ -4687,6 +5227,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 157.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E685B1E7-F5EF-4B3D-ADC4-F9490008600A}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 157.wav"
+      >
     >
     <ITEM
       POSITION 988.62589917250205
@@ -4697,6 +5247,7 @@
       FADEIN 0 0.1715152193193 0 0 0 0 0
       FADEOUT 0 0.16933689168081 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {6254D596-C5AB-48D7-9D6E-37D4B8449148}
       IID 1
@@ -4709,6 +5260,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 158.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36ED2B86-21CB-425F-B54E-9C646F9CCDA1}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 158.wav"
+      >
     >
     <ITEM
       POSITION 998.57515046531171
@@ -4719,6 +5280,7 @@
       FADEIN 0 0.75143486089792 0 0 0 0 0
       FADEOUT 0 0.22569471589201 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {0874DCDD-53C9-451F-A152-FE444B4A68EF}
       IID 1
@@ -4731,6 +5293,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 159.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AEF7887-CBFA-4CD7-A754-6267FFB5D998}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 159.wav"
+      >
     >
     <ITEM
       POSITION 1004.3445387889528
@@ -4741,6 +5313,7 @@
       FADEIN 0 0.19621510733577 0 0 0 0 0
       FADEOUT 0 0.15592184383479 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {CB742457-E559-4D99-8D8B-CB42129D31A9}
       IID 1
@@ -4753,6 +5326,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 160.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {964CD16B-A151-45F7-BBAB-CDAA91843B53}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 160.wav"
+      >
     >
     <ITEM
       POSITION 1011.5268385387917
@@ -4763,6 +5346,7 @@
       FADEIN 0 0.3615147318219 0 0 0 0 0
       FADEOUT 0 0.3058899910327 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {04755EFD-75E2-476F-8163-4490D1C61B72}
       IID 1
@@ -4775,6 +5359,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 161.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EEFE11DC-A434-448F-BF00-FF8D932FAB7F}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 161.wav"
+      >
     >
     <ITEM
       POSITION 1016.1188006739346
@@ -4785,6 +5379,7 @@
       FADEIN 0 0.12398039489756 0 0 0 0 0
       FADEOUT 0 0.3832548383125 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {529DDCDA-ED7D-43B3-B893-8EE936B28434}
       IID 1
@@ -4796,6 +5391,16 @@
       GUID {FAD4B7CD-AFE5-414A-A21A-2C299CDFBB84}
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
+      >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 162.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57D381B8-B4A4-4AF9-BEA9-C1227EFC3AE1}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 162.wav"
       >
     >
     <ITEM
@@ -5327,6 +5932,72 @@
       >
     >
     <ITEM
+      POSITION 1217.8787852834812
+      SNAPOFFS 0
+      LENGTH 87.41940628417387
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.01 0 0 0 0 0
+      FADEOUT 0 0.01 0 0 0 0 0
+      MUTE 0 0
+      LOCK 1
+      SEL 0
+      IGUID {450EEC1B-1453-47BF-84C6-C481E5555FC0}
+      IID 1
+      NAME "FIX soulbound lore .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1217.8787852834812
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB45F493-E0F4-4670-A3FB-54BC4CCA1535}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore .wav"
+      >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 096.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A20C61B9-05EE-4471-8942-120ADE15F2FC}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 096.wav"
+      >
+    >
+    <ITEM
+      POSITION 1305.2981915676551
+      SNAPOFFS 0
+      LENGTH 105.56305664503998
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 0 0.01 0 0 0 0 0
+      FADEOUT 0 0.01 0 0 0 0 0
+      MUTE 0 0
+      LOCK 1
+      SEL 0
+      IGUID {B0BE1EEC-DEA3-4089-816E-5A5A8A29C737}
+      IID 1
+      NAME "FIX soulbound lore .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1305.2981915676551
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0AA915FD-733B-4E95-B840-5A05F2F3EAC1}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore .wav"
+      >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 097.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {332A93B0-9982-4725-A985-7910BBCFEA10}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 097.wav"
+      >
+    >
+    <ITEM
       POSITION 1410.861248212695
       SNAPOFFS 0
       LENGTH 22.981957123764
@@ -5335,6 +6006,7 @@
       FADEIN 0 0.35979060657542 0 0 0 0 0
       FADEOUT 0 0.29712208308001 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {27BF05C3-17BC-467A-B3CC-141516341C7B}
       IID 1
@@ -5347,6 +6019,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 098.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {977B3119-A83D-4E89-A6E2-4530A4AAE459}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 098.wav"
+      >
     >
     <ITEM
       POSITION 1433.8432053364591
@@ -5357,6 +6039,7 @@
       FADEIN 0 0.54644936719797 0 0 0 0 0
       FADEOUT 0 0.25040274099274 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {264B4725-EF48-4CEC-A8C0-C3CD34E00EFA}
       IID 1
@@ -5369,6 +6052,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 099.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BEE25BA-A998-4047-96F8-E95937631F46}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 099.wav"
+      >
     >
     <ITEM
       POSITION 1438.0217429953252
@@ -5379,6 +6072,7 @@
       FADEIN 0 0.30457847629532 0 0 0 0 0
       FADEOUT 0 0.35080033079407 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {65ADACB8-E840-46F1-8A85-29FB6E97F839}
       IID 1
@@ -5391,6 +6085,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 100.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBCE9310-059A-48AB-B452-331A6684FAC0}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 100.wav"
+      >
     >
     <ITEM
       POSITION 1443.0799727929
@@ -5401,6 +6105,7 @@
       FADEIN 0 0.11909911476346 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {7E242EA0-F826-4C91-BA48-36FFDECA0437}
       IID 1
@@ -5413,6 +6118,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 101.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEB99746-FA29-49A8-B38F-86C08035BF28}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 101.wav"
+      >
     >
     <ITEM
       POSITION 1451.2721058346247
@@ -5423,6 +6138,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {16FC94B5-C317-40CA-A767-B428134F844A}
       IID 1
@@ -5435,6 +6151,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 102.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BCF9CCF-BC6B-4B3C-B6DC-F0F3178A0484}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 102.wav"
+      >
     >
     <ITEM
       POSITION 1457.7048545989317
@@ -5445,6 +6171,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {D44E005D-22E0-49DF-987B-A982314BFB85}
       IID 1
@@ -5457,6 +6184,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 103.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86AC8D2F-1BED-4F23-9400-8FFAC2738AEC}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 103.wav"
+      >
     >
     <ITEM
       POSITION 1467.5464104007349
@@ -5467,6 +6204,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {9750691C-7D58-4DCF-B3F6-514A46942F2B}
       IID 1
@@ -5479,6 +6217,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 104.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CF3110F-7E17-4E99-80ED-A7012B7716DB}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 104.wav"
+      >
     >
     <ITEM
       POSITION 1476.3433317878216
@@ -5489,6 +6237,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {585E8831-27E4-419F-823A-B1C98E4E5B50}
       IID 1
@@ -5501,6 +6250,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 105.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {601FCAE6-024C-480A-AAEC-B037CBB633CD}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 105.wav"
+      >
     >
     <ITEM
       POSITION 1493.2224246992942
@@ -5511,6 +6270,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {02BE7058-2B86-4E09-AA69-9D5F5725A8DE}
       IID 1
@@ -5523,6 +6283,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 106.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4F31041-DAEA-4ACC-852F-BEFB23028376}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 106.wav"
+      >
     >
     <ITEM
       POSITION 1505.7580376758926
@@ -5533,6 +6303,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {1AC8ACC3-474F-4585-91F9-EFAA99D9267F}
       IID 1
@@ -5545,6 +6316,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 107.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A38B56C5-2E15-4E27-8FA0-2EB66651C401}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 107.wav"
+      >
     >
     <ITEM
       POSITION 1520.7677847926093
@@ -5555,6 +6336,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {CBCB3B48-AE70-4967-8565-439810E2153B}
       IID 1
@@ -5567,6 +6349,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 108.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F75C2FF9-AAC1-4B39-8B58-64277F94DC5F}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 108.wav"
+      >
     >
     <ITEM
       POSITION 1526.1009183835306
@@ -5577,6 +6369,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {01C70AFB-2818-49A6-9A75-E4AF13B48EF7}
       IID 1
@@ -5589,6 +6382,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 109.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {264BB131-FC4A-4174-9A2C-D005A9FCF177}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 109.wav"
+      >
     >
     <ITEM
       POSITION 1534.6229359772708
@@ -5599,6 +6402,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {DE28B545-9982-45DA-8435-9FB22BEF5D67}
       IID 1
@@ -5611,6 +6415,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 110.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FB57F02-8AF8-40B1-95CD-5E047066C3F2}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 110.wav"
+      >
     >
     <ITEM
       POSITION 1540.7258001895623
@@ -5621,6 +6435,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {8D1BAA1E-8125-44C0-911A-9835947867A4}
       IID 1
@@ -5633,6 +6448,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 111.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {478BCAA2-7E48-4637-9694-E516791CEA44}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 111.wav"
+      >
     >
     <ITEM
       POSITION 1543.1999343296802
@@ -5643,6 +6468,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {3A01266C-E17D-4D51-AB1C-1459AF8F12C5}
       IID 1
@@ -5655,6 +6481,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 112.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B61E222-E033-4162-B037-6ABF68D30520}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 112.wav"
+      >
     >
     <ITEM
       POSITION 1547.3234912298772
@@ -5665,6 +6501,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {B8A1E55F-CF6E-4067-9AF0-017C984902CF}
       IID 1
@@ -5677,6 +6514,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 113.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B57DF53-87BB-487F-ADBB-54892AABFEF1}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 113.wav"
+      >
     >
     <ITEM
       POSITION 1555.4606435129324
@@ -5687,6 +6534,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {56FAFF30-D799-412F-976E-134D6D4A3848}
       IID 1
@@ -5699,6 +6547,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 114.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22B3F3CE-F21D-46AA-BDC0-B567D9D0442C}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 114.wav"
+      >
     >
     <ITEM
       POSITION 1558.0997199290584
@@ -5709,6 +6567,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {138C606A-41E1-411F-9C5E-396272C2025D}
       IID 1
@@ -5721,6 +6580,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 115.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {907AE2B6-8BE1-414F-80FF-58931B9D5158}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 115.wav"
+      >
     >
     <ITEM
       POSITION 1564.5324686933654
@@ -5731,6 +6600,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {D6C208A4-D04B-459B-B306-39239ED42B0C}
       IID 1
@@ -5743,6 +6613,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 116.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05AD5605-8823-483B-B611-CD85DFB5821A}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 116.wav"
+      >
     >
     <ITEM
       POSITION 1570.3604291123104
@@ -5753,6 +6633,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {EEA5F8C6-9002-4266-873F-4A1D427E26B1}
       IID 1
@@ -5765,6 +6646,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 117.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC518031-92C2-491B-B22B-021F31846F19}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 117.wav"
+      >
     >
     <ITEM
       POSITION 1574.978812840531
@@ -5775,6 +6666,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {EC05E931-8C1E-4F62-8F45-68C26C424444}
       IID 1
@@ -5787,6 +6679,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 118.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B276DAE0-4916-407B-9B14-A2563963D7A7}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 118.wav"
+      >
     >
     <ITEM
       POSITION 1578.93742746472
@@ -5797,6 +6699,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {14C218C9-5162-4BD8-83ED-BBD412321022}
       IID 1
@@ -5809,6 +6712,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 119.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F29E9FFC-49F6-427A-A107-467F6F1D6CA7}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 119.wav"
+      >
     >
     <ITEM
       POSITION 1583.9956572622948
@@ -5819,6 +6732,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {5785C7AA-E480-44DF-9C6F-C9EE5F471CDB}
       IID 1
@@ -5831,6 +6745,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 120.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {502BCEE0-969B-4D4C-BB21-67A4936C2F3F}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 120.wav"
+      >
     >
     <ITEM
       POSITION 1588.0642334038223
@@ -5841,6 +6765,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {81302872-F473-43B3-B534-E0F1817ABE88}
       IID 1
@@ -5853,6 +6778,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 121.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E49ED930-0B24-4B2E-B767-A694866B9BD2}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 121.wav"
+      >
     >
     <ITEM
       POSITION 1593.0674824427279
@@ -5863,6 +6798,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {7CC094A7-EC7D-44E0-86CF-E95027BAE9B8}
       IID 1
@@ -5875,6 +6811,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 122.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8547BFC-ADA2-4BFD-9CF7-8339C41A7DEE}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 122.wav"
+      >
     >
     <ITEM
       POSITION 1599.665173483043
@@ -5885,6 +6831,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {BC52E25C-C7B3-4F9D-AFA4-23F3A55892A1}
       IID 1
@@ -5897,6 +6844,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 123.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB639C21-139A-42B1-BCCE-EF2C2FC1CA4E}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 123.wav"
+      >
     >
     <ITEM
       POSITION 1605.1632493499721
@@ -5907,6 +6864,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {713A4C9E-DE1C-4D0A-8DE9-B7B71E5D7AC4}
       IID 1
@@ -5919,6 +6877,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 124.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7CFC35A-FB79-44FD-96A6-880BCE701024}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 124.wav"
+      >
     >
     <ITEM
       POSITION 1611.3760750796021
@@ -5929,6 +6897,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {63D73A3C-30F0-4300-A3C0-4B9B96632B7B}
       IID 1
@@ -5941,6 +6910,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 125.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82CAAD2E-7293-454D-82A5-05DC2FA32D68}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 125.wav"
+      >
     >
     <ITEM
       POSITION 1613.1904401156887
@@ -5951,6 +6930,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {71576B8F-3040-4E5B-B6DA-675042A5CCC5}
       IID 1
@@ -5963,6 +6943,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 126.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5098B3EB-CF58-4C83-8511-B34167979092}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 126.wav"
+      >
     >
     <ITEM
       POSITION 1618.52357370661
@@ -5973,6 +6963,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {6434219F-CE5A-4B41-8696-F47A0F113B9C}
       IID 1
@@ -5985,6 +6976,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 127.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E7C7D22-719A-4BFB-96A1-274910C63A12}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 127.wav"
+      >
     >
     <ITEM
       POSITION 1620.5632026197907
@@ -5995,6 +6996,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {6B5E3B49-4719-4632-AF9F-3760196C753D}
       IID 1
@@ -6007,6 +7009,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 128.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BCBD365-D4FE-42A2-BA61-D79E5D107485}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 128.wav"
+      >
     >
     <ITEM
       POSITION 1621.1795194953279
@@ -6017,6 +7029,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {B8F7C288-E87C-4C78-924F-6E9266E11A10}
       IID 1
@@ -6029,6 +7042,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 129.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3F4F36C-775A-4F0F-8257-662BAF687048}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 129.wav"
+      >
     >
     <ITEM
       POSITION 1626.1240617013418
@@ -6039,6 +7062,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0.01 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {BA10AF24-CE46-4F49-B55F-02FFE0BABEE7}
       IID 1
@@ -6051,6 +7075,16 @@
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
       >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 131.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4251F95A-18F5-4FED-90CA-104F88C0571B}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 131.wav"
+      >
     >
     <ITEM
       POSITION 1632.7677475032242
@@ -6061,6 +7095,7 @@
       FADEIN 0 0.01 0 0 0 0 0
       FADEOUT 0 0 0 0 0 0 0
       MUTE 0 0
+      LOCK 1
       SEL 0
       IGUID {1CB2F23F-B1CF-40EC-8BE2-7AC1A07F92CB}
       IID 1
@@ -6072,6 +7107,16 @@
       GUID {DD82841C-2AB3-4C94-AC56-E6B8CACE98CF}
       <SOURCE WAVE
         FILE "Audio Files\FIX soulbound lore .wav"
+      >
+      TAKE SEL
+      NAME "FIX soulbound lore  copy 132.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77A48C35-9D35-4696-9262-7AB3FCF7787D}
+      <SOURCE WAVE
+        FILE "Audio Files\FIX soulbound lore  copy 132.wav"
       >
     >
   >
@@ -6294,72 +7339,6 @@
       FLOATPOS 0 0 0 0
       FXID {826D7FF3-BB49-4588-8FE2-0548462C6C89}
       WAK 0 2
-    >
-    <ITEM
-      POSITION 452.38168233093216
-      SNAPOFFS 0
-      LENGTH 161.09362290102479
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 0 0.01 0 0 0 0 0
-      FADEOUT 0 0.01 0 0 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {69E3B63A-2A95-4251-8109-09E6357E1CEA}
-      IID 1
-      NAME "FIX soulbound lore .wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 452.38168233093216
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {30EF2B99-5C42-4499-A9CC-7E2C8BFC683F}
-      <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
-      >
-    >
-    <ITEM
-      POSITION 1217.8787852834812
-      SNAPOFFS 0
-      LENGTH 87.41940628417387
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 0 0.01 0 0 0 0 0
-      FADEOUT 0 0.01 0 0 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {450EEC1B-1453-47BF-84C6-C481E5555FC0}
-      IID 1
-      NAME "FIX soulbound lore .wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1217.8787852834812
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DB45F493-E0F4-4670-A3FB-54BC4CCA1535}
-      <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
-      >
-    >
-    <ITEM
-      POSITION 1305.2981915676551
-      SNAPOFFS 0
-      LENGTH 105.56305664503998
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 0 0.01 0 0 0 0 0
-      FADEOUT 0 0.01 0 0 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B0BE1EEC-DEA3-4089-816E-5A5A8A29C737}
-      IID 1
-      NAME "FIX soulbound lore .wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1305.2981915676551
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0AA915FD-733B-4E95-B840-5A05F2F3EAC1}
-      <SOURCE WAVE
-        FILE "Audio Files\FIX soulbound lore .wav"
-      >
     >
   >
   <EXTENSIONS
